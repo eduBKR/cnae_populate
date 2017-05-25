@@ -1,6 +1,6 @@
 == Código Ruby para Popular serviços do Brasil
 
-Código simples para auxiliar a popular tabelas de serviços que por CNAE.
+Código simples para auxiliar a popular tabelas de serviços por CNAE.
 Baseado no projeto br_populate ("https://github.com/celsodantas/br_populate") de Celso Dantas.
 
 == Uso
