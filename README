@@ -1,0 +1,21 @@
+== Código Ruby para Popular serviços do Brasil
+
+Código simples para auxiliar a popular tabelas de serviços que por CNAE.
+Baseado no projeto br_populate ("https://github.com/celsodantas/br_populate") de Celso Dantas.
+
+== Uso
+
+A estrutura do banco de dados é simples:
+
+  ____________________
+ |     Cnaes          |
+ |--------------------|
+ | cnae:string        |
+ | description:string |
+  --------------------
+
+O loop de inserção de serviços é o seguinte:
+
+    cnaes.each do |cnae|
+      Cnae.create(cnae)
+    end

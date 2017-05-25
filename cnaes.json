@@ -1,0 +1,5562 @@
+[
+  {
+    "cnae": "0111-3/01",
+    "description": "Cultivo de arroz"
+  },
+  {
+    "cnae": "0111-3/02",
+    "description": "Cultivo de milho"
+  },
+  {
+    "cnae": "0111-3/03",
+    "description": "Cultivo de trigo"
+  },
+  {
+    "cnae": "0111-3/99",
+    "description": "Cultivo de outros cereais Não especificados anteriormente"
+  },
+  {
+    "cnae": "0112-1/01",
+    "description": "Cultivo de algodão herbáceo"
+  },
+  {
+    "cnae": "0112-1/02",
+    "description": "Cultivo de juta"
+  },
+  {
+    "cnae": "0112-1/99",
+    "description": "Cultivo de outras fibras de lavoura temporária Não especificadas anteriormente"
+  },
+  {
+    "cnae": "0113-0/00",
+    "description": "Cultivo de cana-de-açúcar"
+  },
+  {
+    "cnae": "0114-8/00",
+    "description": "Cultivo de fumo"
+  },
+  {
+    "cnae": "0115-6/00",
+    "description": "Cultivo de soja"
+  },
+  {
+    "cnae": "0116-4/01",
+    "description": "Cultivo de amendoim"
+  },
+  {
+    "cnae": "0116-4/02",
+    "description": "Cultivo de girassol"
+  },
+  {
+    "cnae": "0116-4/03",
+    "description": "Cultivo de mamona"
+  },
+  {
+    "cnae": "0116-4/99",
+    "description": "Cultivo de outras oleaginosas de lavoura temporária Não especificadas anteriormente"
+  },
+  {
+    "cnae": "0119-9/01",
+    "description": "Cultivo de abacaxi"
+  },
+  {
+    "cnae": "0119-9/02",
+    "description": "Cultivo de alho"
+  },
+  {
+    "cnae": "0119-9/03",
+    "description": "Cultivo de batata-inglesa"
+  },
+  {
+    "cnae": "0119-9/04",
+    "description": "Cultivo de cebola"
+  },
+  {
+    "cnae": "0119-9/05",
+    "description": "Cultivo de feijão"
+  },
+  {
+    "cnae": "0119-9/06",
+    "description": "Cultivo de mandioca"
+  },
+  {
+    "cnae": "0119-9/07",
+    "description": "Cultivo de melão"
+  },
+  {
+    "cnae": "0119-9/08",
+    "description": "Cultivo de melancia"
+  },
+  {
+    "cnae": "0119-9/09",
+    "description": "Cultivo de tomate rasteiro"
+  },
+  {
+    "cnae": "0119-9/99",
+    "description": "Cultivo de outras plantas de lavoura temporária Não especificadas anteriormente"
+  },
+  {
+    "cnae": "0121-1/01",
+    "description": "Horticultura, exceto morango"
+  },
+  {
+    "cnae": "0121-1/02",
+    "description": "Cultivo de morango"
+  },
+  {
+    "cnae": "0122-9/00",
+    "description": "Cultivo de flores e plantas ornamentais"
+  },
+  {
+    "cnae": "0131-8/00",
+    "description": "Cultivo de laranja"
+  },
+  {
+    "cnae": "0132-6/00",
+    "description": "Cultivo de uva"
+  },
+  {
+    "cnae": "0133-4/01",
+    "description": "Cultivo de açaí"
+  },
+  {
+    "cnae": "0133-4/02",
+    "description": "Cultivo de banana"
+  },
+  {
+    "cnae": "0133-4/03",
+    "description": "Cultivo de caju"
+  },
+  {
+    "cnae": "0133-4/04",
+    "description": "Cultivo de cítricos, exceto laranja"
+  },
+  {
+    "cnae": "0133-4/05",
+    "description": "Cultivo de coco-da-baía"
+  },
+  {
+    "cnae": "0133-4/06",
+    "description": "Cultivo de guaraná"
+  },
+  {
+    "cnae": "0133-4/07",
+    "description": "Cultivo de maçã"
+  },
+  {
+    "cnae": "0133-4/08",
+    "description": "Cultivo de mamão"
+  },
+  {
+    "cnae": "0133-4/09",
+    "description": "Cultivo de maracujá"
+  },
+  {
+    "cnae": "0133-4/10",
+    "description": "Cultivo de manga"
+  },
+  {
+    "cnae": "0133-4/11",
+    "description": "Cultivo de pêssego"
+  },
+  {
+    "cnae": "0133-4/99",
+    "description": "Cultivo de frutas de lavoura permanente Não especificadas anteriormente"
+  },
+  {
+    "cnae": "0134-2/00",
+    "description": "Cultivo de café"
+  },
+  {
+    "cnae": "0135-1/00",
+    "description": "Cultivo de cacau"
+  },
+  {
+    "cnae": "0139-3/01",
+    "description": "Cultivo de chá-da-índia"
+  },
+  {
+    "cnae": "0139-3/02",
+    "description": "Cultivo de erva-mate"
+  },
+  {
+    "cnae": "0139-3/03",
+    "description": "Cultivo de pimenta-do-reino"
+  },
+  {
+    "cnae": "0139-3/04",
+    "description": "Cultivo de plantas para condimento, exceto pimenta-do-reino"
+  },
+  {
+    "cnae": "0139-3/05",
+    "description": "Cultivo de dendê"
+  },
+  {
+    "cnae": "0139-3/06",
+    "description": "Cultivo de seringueira"
+  },
+  {
+    "cnae": "0139-3/99",
+    "description": "Cultivo de outras plantas de lavoura permanente Não especificadas anteriormente"
+  },
+  {
+    "cnae": "0141-5/01",
+    "description": "Produção de sementes certificadas, exceto de forrageiras para pasto"
+  },
+  {
+    "cnae": "0141-5/02",
+    "description": "Produção de sementes certificadas de forrageiras para formação de pasto"
+  },
+  {
+    "cnae": "0142-3/00",
+    "description": "Produção de mudas e outras formas de propagação vegetal, certificadas"
+  },
+  {
+    "cnae": "0151-2/01",
+    "description": "Criação de bovinos para corte"
+  },
+  {
+    "cnae": "0151-2/02",
+    "description": "Criação de bovinos para leite"
+  },
+  {
+    "cnae": "0151-2/03",
+    "description": "Criação de bovinos, exceto para corte e leite"
+  },
+  {
+    "cnae": "0152-1/01",
+    "description": "Criação de bufalinos"
+  },
+  {
+    "cnae": "0152-1/02",
+    "description": "Criação de eqüinos"
+  },
+  {
+    "cnae": "0152-1/03",
+    "description": "Criação de asininos e muares"
+  },
+  {
+    "cnae": "0153-9/01",
+    "description": "Criação de caprinos"
+  },
+  {
+    "cnae": "0153-9/02",
+    "description": "Criação de ovinos, inclusive para produção de lã"
+  },
+  {
+    "cnae": "0154-7/00",
+    "description": "Criação de suínos"
+  },
+  {
+    "cnae": "0155-5/01",
+    "description": "Criação de frangos para corte"
+  },
+  {
+    "cnae": "0155-5/02",
+    "description": "Produção de pintos de um dia"
+  },
+  {
+    "cnae": "0155-5/03",
+    "description": "Criação de outros galináceos, exceto para corte"
+  },
+  {
+    "cnae": "0155-5/04",
+    "description": "Criação de aves, exceto galináceos"
+  },
+  {
+    "cnae": "0155-5/05",
+    "description": "Produção de ovos"
+  },
+  {
+    "cnae": "0159-8/01",
+    "description": "Apicultura"
+  },
+  {
+    "cnae": "0159-8/02",
+    "description": "Criação de animais de estimação"
+  },
+  {
+    "cnae": "0159-8/03",
+    "description": "Criação de escargô"
+  },
+  {
+    "cnae": "0159-8/04",
+    "description": "Criação de bicho-da-seda"
+  },
+  {
+    "cnae": "0159-8/99",
+    "description": "Criação de outros animais Não especificados anteriormente"
+  },
+  {
+    "cnae": "0161-0/01",
+    "description": "Serviço de pulverização e controle de pragas agrícolas"
+  },
+  {
+    "cnae": "0161-0/02",
+    "description": "Serviço de poda de árvores para lavouras"
+  },
+  {
+    "cnae": "0161-0/03",
+    "description": "Serviço de preparação de terreno, cultivo e colheita"
+  },
+  {
+    "cnae": "0161-0/99",
+    "description": "Atividades de apoio à agricultura Não especificadas anteriormente"
+  },
+  {
+    "cnae": "0162-8/01",
+    "description": "Serviço de inseminação artificial em animais"
+  },
+  {
+    "cnae": "0162-8/02",
+    "description": "Serviço de tosquiamento de ovinos"
+  },
+  {
+    "cnae": "0162-8/03",
+    "description": "Serviço de manejo de animais"
+  },
+  {
+    "cnae": "0162-8/99",
+    "description": "Atividades de apoio à pecuária Não especificadas anteriormente"
+  },
+  {
+    "cnae": "0163-6/00",
+    "description": "Atividades de pós-colheita"
+  },
+  {
+    "cnae": "0170-9/00",
+    "description": "Caça e serviços relacionados"
+  },
+  {
+    "cnae": "0210-1/01",
+    "description": "Cultivo de eucalipto"
+  },
+  {
+    "cnae": "0210-1/02",
+    "description": "Cultivo de acácia-negra"
+  },
+  {
+    "cnae": "0210-1/03",
+    "description": "Cultivo de pinus"
+  },
+  {
+    "cnae": "0210-1/04",
+    "description": "Cultivo de teca"
+  },
+  {
+    "cnae": "0210-1/05",
+    "description": "Cultivo de espécies madeireiras, exceto eucalipto, acácia-negra, pinus e teca"
+  },
+  {
+    "cnae": "0210-1/06",
+    "description": "Cultivo de mudas em viveiros florestais"
+  },
+  {
+    "cnae": "0210-1/07",
+    "description": "Extração de madeira em florestas plantadas"
+  },
+  {
+    "cnae": "0210-1/08",
+    "description": "Produção de carvão vegetal - florestas plantadas"
+  },
+  {
+    "cnae": "0210-1/09",
+    "description": "Produção de casca de acácia-negra - florestas plantadas"
+  },
+  {
+    "cnae": "0210-1/99",
+    "description": "Produção de produtos Não-madeireiros Não especificados anteriormente em florestas plantadas"
+  },
+  {
+    "cnae": "0220-9/01",
+    "description": "Extração de madeira em florestas nativas"
+  },
+  {
+    "cnae": "0220-9/02",
+    "description": "Produção de carvão vegetal - florestas nativas"
+  },
+  {
+    "cnae": "0220-9/03",
+    "description": "Coleta de castanha-do-pará em florestas nativas"
+  },
+  {
+    "cnae": "0220-9/04",
+    "description": "Coleta de látex em florestas nativas"
+  },
+  {
+    "cnae": "0220-9/05",
+    "description": "Coleta de palmito em florestas nativas"
+  },
+  {
+    "cnae": "0220-9/06",
+    "description": "Conservação de florestas nativas"
+  },
+  {
+    "cnae": "0220-9/99",
+    "description": "Coleta de produtos Não-madeireiros Não especificados anteriormente em florestas nativas"
+  },
+  {
+    "cnae": "0230-6/00",
+    "description": "Atividades de apoio à produção florestal"
+  },
+  {
+    "cnae": "0311-6/01",
+    "description": "Pesca de peixes em água salgada"
+  },
+  {
+    "cnae": "0311-6/02",
+    "description": "Pesca de crustáceos e moluscos em água salgada"
+  },
+  {
+    "cnae": "0311-6/03",
+    "description": "Coleta de outros produtos marinhos"
+  },
+  {
+    "cnae": "0311-6/04",
+    "description": "Atividades de apoio à pesca em água salgada"
+  },
+  {
+    "cnae": "0312-4/01",
+    "description": "Pesca de peixes em água doce"
+  },
+  {
+    "cnae": "0312-4/02",
+    "description": "Pesca de crustáceos e moluscos em água doce"
+  },
+  {
+    "cnae": "0312-4/03",
+    "description": "Coleta de outros produtos aquáticos de água doce"
+  },
+  {
+    "cnae": "0312-4/04",
+    "description": "Atividades de apoio à pesca em água doce"
+  },
+  {
+    "cnae": "0321-3/01",
+    "description": "Criação de peixes em água salgada e salobra"
+  },
+  {
+    "cnae": "0321-3/02",
+    "description": "Criação de camarões em água salgada e salobra"
+  },
+  {
+    "cnae": "0321-3/03",
+    "description": "Criação de ostras e mexilhões em água salgada e salobra"
+  },
+  {
+    "cnae": "0321-3/04",
+    "description": "Criação de peixes ornamentais em água salgada e salobra"
+  },
+  {
+    "cnae": "0321-3/05",
+    "description": "Atividades de apoio à aqüicultura em água salgada e salobra"
+  },
+  {
+    "cnae": "0321-3/99",
+    "description": "Cultivos e semicultivos da aqüicultura em água salgada e salobra Não especificados anteriormente"
+  },
+  {
+    "cnae": "0322-1/01",
+    "description": "Criação de peixes em água doce"
+  },
+  {
+    "cnae": "0322-1/02",
+    "description": "Criação de camarões em água doce"
+  },
+  {
+    "cnae": "0322-1/03",
+    "description": "Criação de ostras e mexilhões em água doce"
+  },
+  {
+    "cnae": "0322-1/04",
+    "description": "Criação de peixes ornamentais em água doce"
+  },
+  {
+    "cnae": "0322-1/05",
+    "description": "Ranicultura"
+  },
+  {
+    "cnae": "0322-1/06",
+    "description": "Criação de jacaré"
+  },
+  {
+    "cnae": "0322-1/07",
+    "description": "Atividades de apoio à aqüicultura em água doce"
+  },
+  {
+    "cnae": "0322-1/99",
+    "description": "Cultivos e semicultivos da aqüicultura em água doce Não especificados anteriormente"
+  },
+  {
+    "cnae": "0500-3/01",
+    "description": "Extração de carvão mineral"
+  },
+  {
+    "cnae": "0500-3/02",
+    "description": "Beneficiamento de carvão mineral"
+  },
+  {
+    "cnae": "0600-0/01",
+    "description": "Extração de petróleo e gás natural"
+  },
+  {
+    "cnae": "0600-0/02",
+    "description": "Extração e beneficiamento de xisto"
+  },
+  {
+    "cnae": "0600-0/03",
+    "description": "Extração e beneficiamento de areias betuminosas"
+  },
+  {
+    "cnae": "0710-3/01",
+    "description": "Extração de minério de ferro"
+  },
+  {
+    "cnae": "0710-3/02",
+    "description": "Pelotização, sinterização e outros beneficiamentos de minério de ferro"
+  },
+  {
+    "cnae": "0721-9/01",
+    "description": "Extração de minério de alumínio"
+  },
+  {
+    "cnae": "0721-9/02",
+    "description": "Beneficiamento de minério de alumínio"
+  },
+  {
+    "cnae": "0722-7/01",
+    "description": "Extração de minério de estanho"
+  },
+  {
+    "cnae": "0722-7/02",
+    "description": "Beneficiamento de minério de estanho"
+  },
+  {
+    "cnae": "0723-5/01",
+    "description": "Extração de minério de manganês"
+  },
+  {
+    "cnae": "0723-5/02",
+    "description": "Beneficiamento de minério de manganês"
+  },
+  {
+    "cnae": "0724-3/01",
+    "description": "Extração de minério de metais preciosos"
+  },
+  {
+    "cnae": "0724-3/02",
+    "description": "Beneficiamento de minério de metais preciosos"
+  },
+  {
+    "cnae": "0725-1/00",
+    "description": "Extração de minerais radioativos"
+  },
+  {
+    "cnae": "0729-4/01",
+    "description": "Extração de minérios de nióbio e titânio"
+  },
+  {
+    "cnae": "0729-4/02",
+    "description": "Extração de minério de tungstênio"
+  },
+  {
+    "cnae": "0729-4/03",
+    "description": "Extração de minério de níquel"
+  },
+  {
+    "cnae": "0729-4/04",
+    "description": "Extração de minérios de cobre, chumbo, zinco e outros minerais metálicos Não-ferrosos Não especificados anteriormente"
+  },
+  {
+    "cnae": "0729-4/05",
+    "description": "Beneficiamento de minérios de cobre, chumbo, zinco e outros minerais metálicos Não-ferrosos Não especificados anteriormente"
+  },
+  {
+    "cnae": "0810-0/01",
+    "description": "Extração de ardósia e beneficiamento associado"
+  },
+  {
+    "cnae": "0810-0/02",
+    "description": "Extração de granito e beneficiamento associado"
+  },
+  {
+    "cnae": "0810-0/03",
+    "description": "Extração de mármore e beneficiamento associado"
+  },
+  {
+    "cnae": "0810-0/04",
+    "description": "Extração de calcário e dolomita e beneficiamento associado"
+  },
+  {
+    "cnae": "0810-0/05",
+    "description": "Extração de gesso e caulim"
+  },
+  {
+    "cnae": "0810-0/06",
+    "description": "Extração de areia, cascalho ou pedregulho e beneficiamento associado"
+  },
+  {
+    "cnae": "0810-0/07",
+    "description": "Extração de argila e beneficiamento associado"
+  },
+  {
+    "cnae": "0810-0/08",
+    "description": "Extração de saibro e beneficiamento associado"
+  },
+  {
+    "cnae": "0810-0/09",
+    "description": "Extração de basalto e beneficiamento associado"
+  },
+  {
+    "cnae": "0810-0/10",
+    "description": "Beneficiamento de gesso e caulim associado à extração"
+  },
+  {
+    "cnae": "0810-0/99",
+    "description": "Extração e britamento de pedras e outros materiais para construção e beneficiamento associado"
+  },
+  {
+    "cnae": "0891-6/00",
+    "description": "Extração de minerais para fabricação de adubos, fertilizantes e outros produtos químicos"
+  },
+  {
+    "cnae": "0892-4/01",
+    "description": "Extração de sal marinho"
+  },
+  {
+    "cnae": "0892-4/02",
+    "description": "Extração de sal-gema"
+  },
+  {
+    "cnae": "0892-4/03",
+    "description": "Refino e outros tratamentos do sal"
+  },
+  {
+    "cnae": "0893-2/00",
+    "description": "Extração de gemas (pedras preciosas e semipreciosas)"
+  },
+  {
+    "cnae": "0899-1/01",
+    "description": "Extração de grafita"
+  },
+  {
+    "cnae": "0899-1/02",
+    "description": "Extração de quartzo"
+  },
+  {
+    "cnae": "0899-1/03",
+    "description": "Extração de amianto"
+  },
+  {
+    "cnae": "0899-1/99",
+    "description": "Extração de outros minerais Não-metálicos Não especificados anteriormente"
+  },
+  {
+    "cnae": "0910-6/00",
+    "description": "Atividades de apoio à extração de petróleo e gás natural"
+  },
+  {
+    "cnae": "0990-4/01",
+    "description": "Atividades de apoio à extração de minério de ferro"
+  },
+  {
+    "cnae": "0990-4/02",
+    "description": "Atividades de apoio à extração de minerais metálicos Não-ferrosos"
+  },
+  {
+    "cnae": "0990-4/03",
+    "description": "Atividades de apoio à extração de minerais Não-metálicos"
+  },
+  {
+    "cnae": "1011-2/01",
+    "description": "Frigorífico - abate de bovinos"
+  },
+  {
+    "cnae": "1011-2/02",
+    "description": "Frigorífico - abate de eqüinos"
+  },
+  {
+    "cnae": "1011-2/03",
+    "description": "Frigorífico - abate de ovinos e caprinos"
+  },
+  {
+    "cnae": "1011-2/04",
+    "description": "Frigorífico - abate de bufalinos"
+  },
+  {
+    "cnae": "1011-2/05",
+    "description": "Matadouro - abate de reses sob contrato, exceto abate de suínos"
+  },
+  {
+    "cnae": "1012-1/01",
+    "description": "Abate de aves"
+  },
+  {
+    "cnae": "1012-1/02",
+    "description": "Abate de pequenos animais"
+  },
+  {
+    "cnae": "1012-1/03",
+    "description": "Frigorífico - abate de suínos"
+  },
+  {
+    "cnae": "1012-1/04",
+    "description": "Matadouro - abate de suínos sob contrato"
+  },
+  {
+    "cnae": "1013-9/01",
+    "description": "Fabricação de produtos de carne"
+  },
+  {
+    "cnae": "1013-9/02",
+    "description": "Preparação de subprodutos do abate"
+  },
+  {
+    "cnae": "1020-1/01",
+    "description": "Preservação de peixes, crustáceos e moluscos"
+  },
+  {
+    "cnae": "1020-1/02",
+    "description": "Fabricação de conservas de peixes, crustáceos e moluscos"
+  },
+  {
+    "cnae": "1031-7/00",
+    "description": "Fabricação de conservas de frutas"
+  },
+  {
+    "cnae": "1032-5/01",
+    "description": "Fabricação de conservas de palmito"
+  },
+  {
+    "cnae": "1032-5/99",
+    "description": "Fabricação de conservas de legumes e outros vegetais, exceto palmito"
+  },
+  {
+    "cnae": "1033-3/01",
+    "description": "Fabricação de sucos concentrados de frutas, hortaliças e legumes"
+  },
+  {
+    "cnae": "1033-3/02",
+    "description": "Fabricação de sucos de frutas, hortaliças e legumes, exceto concentrados"
+  },
+  {
+    "cnae": "1041-4/00",
+    "description": "Fabricação de óleos vegetais em bruto, exceto óleo de milho"
+  },
+  {
+    "cnae": "1042-2/00",
+    "description": "Fabricação de óleos vegetais refinados, exceto óleo de milho"
+  },
+  {
+    "cnae": "1043-1/00",
+    "description": "Fabricação de margarina e outras gorduras vegetais e de óleos Não-comestíveis de animais"
+  },
+  {
+    "cnae": "1051-1/00",
+    "description": "Preparação do leite"
+  },
+  {
+    "cnae": "1052-0/00",
+    "description": "Fabricação de laticínios"
+  },
+  {
+    "cnae": "1053-8/00",
+    "description": "Fabricação de sorvetes e outros gelados comestíveis"
+  },
+  {
+    "cnae": "1061-9/01",
+    "description": "Beneficiamento de arroz"
+  },
+  {
+    "cnae": "1061-9/02",
+    "description": "Fabricação de produtos do arroz"
+  },
+  {
+    "cnae": "1062-7/00",
+    "description": "Moagem de trigo e fabricação de derivados"
+  },
+  {
+    "cnae": "1063-5/00",
+    "description": "Fabricação de farinha de mandioca e derivados"
+  },
+  {
+    "cnae": "1064-3/00",
+    "description": "Fabricação de farinha de milho e derivados, exceto óleos de milho"
+  },
+  {
+    "cnae": "1065-1/01",
+    "description": "Fabricação de amidos e féculas de vegetais"
+  },
+  {
+    "cnae": "1065-1/02",
+    "description": "Fabricação de óleo de milho em bruto"
+  },
+  {
+    "cnae": "1065-1/03",
+    "description": "Fabricação de óleo de milho refinado"
+  },
+  {
+    "cnae": "1066-0/00",
+    "description": "Fabricação de alimentos para animais"
+  },
+  {
+    "cnae": "1069-4/00",
+    "description": "Moagem e fabricação de produtos de origem vegetal Não especificados anteriormente"
+  },
+  {
+    "cnae": "1071-6/00",
+    "description": "Fabricação de açúcar em bruto"
+  },
+  {
+    "cnae": "1072-4/01",
+    "description": "Fabricação de açúcar de cana refinado"
+  },
+  {
+    "cnae": "1072-4/02",
+    "description": "Fabricação de açúcar de cereais (dextrose) e de beterraba"
+  },
+  {
+    "cnae": "1081-3/01",
+    "description": "Beneficiamento de café"
+  },
+  {
+    "cnae": "1081-3/02",
+    "description": "Torrefação e moagem de café"
+  },
+  {
+    "cnae": "1082-1/00",
+    "description": "Fabricação de produtos à base de café"
+  },
+  {
+    "cnae": "1091-1/01",
+    "description": "Fabricação de produtos de panificação industrial"
+  },
+  {
+    "cnae": "1091-1/02",
+    "description": "Fabricação de produtos de padaria e confeitaria com predominância de produção própria"
+  },
+  {
+    "cnae": "1092-9/00",
+    "description": "Fabricação de biscoitos e bolachas"
+  },
+  {
+    "cnae": "1093-7/01",
+    "description": "Fabricação de produtos derivados do cacau e de chocolates"
+  },
+  {
+    "cnae": "1093-7/02",
+    "description": "Fabricação de frutas cristalizadas, balas e semelhantes"
+  },
+  {
+    "cnae": "1094-5/00",
+    "description": "Fabricação de massas alimentícias"
+  },
+  {
+    "cnae": "1095-3/00",
+    "description": "Fabricação de especiarias, molhos, temperos e condimentos"
+  },
+  {
+    "cnae": "1096-1/00",
+    "description": "Fabricação de alimentos e pratos prontos"
+  },
+  {
+    "cnae": "1099-6/01",
+    "description": "Fabricação de vinagres"
+  },
+  {
+    "cnae": "1099-6/02",
+    "description": "Fabricação de pós alimentícios"
+  },
+  {
+    "cnae": "1099-6/03",
+    "description": "Fabricação de fermentos e leveduras"
+  },
+  {
+    "cnae": "1099-6/04",
+    "description": "Fabricação de gelo comum"
+  },
+  {
+    "cnae": "1099-6/05",
+    "description": "Fabricação de produtos para infusão (chá, mate, etc.)"
+  },
+  {
+    "cnae": "1099-6/06",
+    "description": "Fabricação de adoçantes naturais e artificiais"
+  },
+  {
+    "cnae": "1099-6/07",
+    "description": "Fabricação de alimentos dietéticos e complementos alimentares"
+  },
+  {
+    "cnae": "1099-6/99",
+    "description": "Fabricação de outros produtos alimentícios Não especificados anteriormente"
+  },
+  {
+    "cnae": "1111-9/01",
+    "description": "Fabricação de aguardente de cana-de-açúcar"
+  },
+  {
+    "cnae": "1111-9/02",
+    "description": "Fabricação de outras aguardentes e bebidas destiladas"
+  },
+  {
+    "cnae": "1112-7/00",
+    "description": "Fabricação de vinho"
+  },
+  {
+    "cnae": "1113-5/01",
+    "description": "Fabricação de malte, inclusive malte uísque"
+  },
+  {
+    "cnae": "1113-5/02",
+    "description": "Fabricação de cervejas e chopes"
+  },
+  {
+    "cnae": "1121-6/00",
+    "description": "Fabricação de águas envasadas"
+  },
+  {
+    "cnae": "1122-4/01",
+    "description": "Fabricação de refrigerantes"
+  },
+  {
+    "cnae": "1122-4/02",
+    "description": "Fabricação de chá mate e outros chás prontos para consumo"
+  },
+  {
+    "cnae": "1122-4/03",
+    "description": "Fabricação de refrescos, xaropes e pós para refrescos, exceto refrescos de frutas"
+  },
+  {
+    "cnae": "1122-4/04",
+    "description": "Fabricação de bebidas isotônicas"
+  },
+  {
+    "cnae": "1122-4/99",
+    "description": "Fabricação de outras bebidas Não-alcoólicas Não especificadas anteriormente"
+  },
+  {
+    "cnae": "1210-7/00",
+    "description": "Processamento industrial do fumo"
+  },
+  {
+    "cnae": "1220-4/01",
+    "description": "Fabricação de cigarros"
+  },
+  {
+    "cnae": "1220-4/02",
+    "description": "Fabricação de cigarrilhas e charutos"
+  },
+  {
+    "cnae": "1220-4/03",
+    "description": "Fabricação de filtros para cigarros"
+  },
+  {
+    "cnae": "1220-4/99",
+    "description": "Fabricação de outros produtos do fumo, exceto cigarros, cigarrilhas e charutos"
+  },
+  {
+    "cnae": "1311-1/00",
+    "description": "Preparação e fiação de fibras de algodão"
+  },
+  {
+    "cnae": "1312-0/00",
+    "description": "Preparação e fiação de fibras têxteis naturais, exceto algodão"
+  },
+  {
+    "cnae": "1313-8/00",
+    "description": "Fiação de fibras artificiais e sintéticas"
+  },
+  {
+    "cnae": "1314-6/00",
+    "description": "Fabricação de linhas para costurar e bordar"
+  },
+  {
+    "cnae": "1321-9/00",
+    "description": "Tecelagem de fios de algodão"
+  },
+  {
+    "cnae": "1322-7/00",
+    "description": "Tecelagem de fios de fibras têxteis naturais, exceto algodão"
+  },
+  {
+    "cnae": "1323-5/00",
+    "description": "Tecelagem de fios de fibras artificiais e sintéticas"
+  },
+  {
+    "cnae": "1330-8/00",
+    "description": "Fabricação de tecidos de malha"
+  },
+  {
+    "cnae": "1340-5/01",
+    "description": "Estamparia e texturização em fios, tecidos, artefatos têxteis e peças do vestuário"
+  },
+  {
+    "cnae": "1340-5/02",
+    "description": "Alvejamento, tingimento e torção em fios, tecidos, artefatos têxteis e peças do vestuário"
+  },
+  {
+    "cnae": "1340-5/99",
+    "description": "Outros serviços de acabamento em fios, tecidos, artefatos têxteis e peças do vestuário"
+  },
+  {
+    "cnae": "1351-1/00",
+    "description": "Fabricação de artefatos têxteis para uso doméstico"
+  },
+  {
+    "cnae": "1352-9/00",
+    "description": "Fabricação de artefatos de tapeçaria"
+  },
+  {
+    "cnae": "1353-7/00",
+    "description": "Fabricação de artefatos de cordoaria"
+  },
+  {
+    "cnae": "1354-5/00",
+    "description": "Fabricação de tecidos especiais, inclusive artefatos"
+  },
+  {
+    "cnae": "1359-6/00",
+    "description": "Fabricação de outros produtos têxteis Não especificados anteriormente"
+  },
+  {
+    "cnae": "1411-8/01",
+    "description": "Confecção de roupas íntimas"
+  },
+  {
+    "cnae": "1411-8/02",
+    "description": "Facção de roupas íntimas"
+  },
+  {
+    "cnae": "1412-6/01",
+    "description": "Confecção de peças do vestuário, exceto roupas íntimas e as confeccionadas sob medida"
+  },
+  {
+    "cnae": "1412-6/02",
+    "description": "Confecção, sob medida, de peças do vestuário, exceto roupas íntimas"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "1412-6/03",
+    "description": "Facção de peças do vestuário, exceto roupas íntimas"
+  },
+  {
+    "cnae": "1413-4/01",
+    "description": "Confecção de roupas profissionais, exceto sob medida"
+  },
+  {
+    "cnae": "1413-4/02",
+    "description": "Confecção, sob medida, de roupas profissionais"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "1413-4/03",
+    "description": "Facção de roupas profissionais"
+  },
+  {
+    "cnae": "1414-2/00",
+    "description": "Fabricação de acessórios do vestuário, exceto para segurança e proteção"
+  },
+  {
+    "cnae": "1421-5/00",
+    "description": "Fabricação de meias"
+  },
+  {
+    "cnae": "1422-3/00",
+    "description": "Fabricação de artigos do vestuário, produzidos em malharias e tricotagens, exceto meias"
+  },
+  {
+    "cnae": "1510-6/00",
+    "description": "Curtimento e outras preparações de couro"
+  },
+  {
+    "cnae": "1521-1/00",
+    "description": "Fabricação de artigos para viagem, bolsas e semelhantes de qualquer material"
+  },
+  {
+    "cnae": "1529-7/00",
+    "description": "Fabricação de artefatos de couro Não especificados anteriormente"
+  },
+  {
+    "cnae": "1531-9/01",
+    "description": "Fabricação de calçados de couro"
+  },
+  {
+    "cnae": "1531-9/02",
+    "description": "Acabamento de calçados de couro sob contrato"
+  },
+  {
+    "cnae": "1532-7/00",
+    "description": "Fabricação de tênis de qualquer material"
+  },
+  {
+    "cnae": "1533-5/00",
+    "description": "Fabricação de calçados de material sintético"
+  },
+  {
+    "cnae": "1539-4/00",
+    "description": "Fabricação de calçados de materiais Não especificados anteriormente"
+  },
+  {
+    "cnae": "1540-8/00",
+    "description": "Fabricação de partes para calçados, de qualquer material"
+  },
+  {
+    "cnae": "1610-2/01",
+    "description": "Serrarias com desdobramento de madeira"
+  },
+  {
+    "cnae": "1610-2/02",
+    "description": "Serrarias sem desdobramento de madeira"
+  },
+  {
+    "cnae": "1621-8/00",
+    "description": "Fabricação de madeira laminada e de chapas de madeira compensada, prensada e aglomerada"
+  },
+  {
+    "cnae": "1622-6/01",
+    "description": "Fabricação de casas de madeira pré-fabricadas"
+  },
+  {
+    "cnae": "1622-6/02",
+    "description": "Fabricação de esquadrias de madeira e de peças de madeira para instalações industriais e comerciais"
+  },
+  {
+    "cnae": "1622-6/99",
+    "description": "Fabricação de outros artigos de carpintaria para construção"
+  },
+  {
+    "cnae": "1623-4/00",
+    "description": "Fabricação de artefatos de tanoaria e de embalagens de madeira"
+  },
+  {
+    "cnae": "1629-3/01",
+    "description": "Fabricação de artefatos diversos de madeira, exceto móveis"
+  },
+  {
+    "cnae": "1629-3/02",
+    "description": "Fabricação de artefatos diversos de cortiça, bambu, palha, vime e outros materiais trançados, exceto móveis"
+  },
+  {
+    "cnae": "1710-9/00",
+    "description": "Fabricação de celulose e outras pastas para a fabricação de papel"
+  },
+  {
+    "cnae": "1721-4/00",
+    "description": "Fabricação de papel"
+  },
+  {
+    "cnae": "1722-2/00",
+    "description": "Fabricação de cartolina e papel-cartão"
+  },
+  {
+    "cnae": "1731-1/00",
+    "description": "Fabricação de embalagens de papel"
+  },
+  {
+    "cnae": "1732-0/00",
+    "description": "Fabricação de embalagens de cartolina e papel-cartão"
+  },
+  {
+    "cnae": "1733-8/00",
+    "description": "Fabricação de chapas e de embalagens de papelão ondulado"
+  },
+  {
+    "cnae": "1741-9/01",
+    "description": "Fabricação de formulários contínuos"
+  },
+  {
+    "cnae": "1741-9/02",
+    "description": "Fabricação de produtos de papel, cartolina, papel-cartão e papelão ondulado para uso comercial e de escritório"
+  },
+  {
+    "cnae": "1742-7/01",
+    "description": "Fabricação de fraldas descartáveis"
+  },
+  {
+    "cnae": "1742-7/02",
+    "description": "Fabricação de absorventes higiênicos"
+  },
+  {
+    "cnae": "1742-7/99",
+    "description": "Fabricação de produtos de papel para uso doméstico e higiênico-sanitário Não especificados anteriormente"
+  },
+  {
+    "cnae": "1749-4/00",
+    "description": "Fabricação de produtos de pastas celulósicas, papel, cartolina, papel-cartão e papelão ondulado Não especificados anteriormente"
+  },
+  {
+    "cnae": "1811-3/01",
+    "description": "Impressão de jornais"
+  },
+  {
+    "cnae": "1811-3/02",
+    "description": "Impressão de livros, revistas e outras publicações periódicas"
+  },
+  {
+    "cnae": "1812-1/00",
+    "description": "Impressão de material de segurança"
+  },
+  {
+    "cnae": "1813-0/01",
+    "description": "Impressão de material para uso publicitário"
+  },
+  {
+    "cnae": "1813-0/99",
+    "description": "Impressão de material para outros usos"
+  },
+  {
+    "cnae": "1821-1/00",
+    "description": "Serviços de pré-impressão"
+  },
+  {
+    "cnae": "1822-9/01",
+    "description": "Serviços de encadernação e plastificação"
+  },
+  {
+    "cnae": "1822-9/99",
+    "description": "Serviços de acabamentos gráficos, exceto encadernação e plastificação"
+  },
+  {
+    "cnae": "1830-0/01",
+    "description": "Reprodução de som em qualquer suporte"
+  },
+  {
+    "cnae": "1830-0/02",
+    "description": "Reprodução de vídeo em qualquer suporte"
+  },
+  {
+    "cnae": "1830-0/03",
+    "description": "Reprodução de software em qualquer suporte"
+  },
+  {
+    "cnae": "1910-1/00",
+    "description": "Coquerias"
+  },
+  {
+    "cnae": "1921-7/00",
+    "description": "Fabricação de produtos do refino de petróleo"
+  },
+  {
+    "cnae": "1922-5/01",
+    "description": "Formulação de combustíveis"
+  },
+  {
+    "cnae": "1922-5/02",
+    "description": "Rerrefino de óleos lubrificantes"
+  },
+  {
+    "cnae": "1922-5/99",
+    "description": "Fabricação de outros produtos derivados do petróleo, exceto produtos do refino"
+  },
+  {
+    "cnae": "1931-4/00",
+    "description": "Fabricação de álcool"
+  },
+  {
+    "cnae": "1932-2/00",
+    "description": "Fabricação de biocombustíveis, exceto álcool"
+  },
+  {
+    "cnae": "2011-8/00",
+    "description": "Fabricação de cloro e álcalis"
+  },
+  {
+    "cnae": "2012-6/00",
+    "description": "Fabricação de intermediários para fertilizantes"
+  },
+  {
+    "cnae": "2013-4/01",
+    "description": "Fabricação de adubos e fertilizantes organo-minerais"
+  },
+  {
+    "cnae": "2013-4/02",
+    "description": "Fabricação de adubos e fertilizantes, exceto organo-minerais"
+  },
+  {
+    "cnae": "2014-2/00",
+    "description": "Fabricação de gases industriais"
+  },
+  {
+    "cnae": "2019-3/01",
+    "description": "Elaboração de combustíveis nucleares"
+  },
+  {
+    "cnae": "2019-3/99",
+    "description": "Fabricação de outros produtos químicos inorgânicos Não especificados anteriormente"
+  },
+  {
+    "cnae": "2021-5/00",
+    "description": "Fabricação de produtos petroquímicos básicos"
+  },
+  {
+    "cnae": "2022-3/00",
+    "description": "Fabricação de intermediários para plastificantes, resinas e fibras"
+  },
+  {
+    "cnae": "2029-1/00",
+    "description": "Fabricação de produtos químicos orgânicos Não especificados anteriormente"
+  },
+  {
+    "cnae": "2031-2/00",
+    "description": "Fabricação de resinas termoplásticas"
+  },
+  {
+    "cnae": "2032-1/00",
+    "description": "Fabricação de resinas termofixas"
+  },
+  {
+    "cnae": "2033-9/00",
+    "description": "Fabricação de elastômeros"
+  },
+  {
+    "cnae": "2040-1/00",
+    "description": "Fabricação de fibras artificiais e sintéticas"
+  },
+  {
+    "cnae": "2051-7/00",
+    "description": "Fabricação de defensivos agrícolas"
+  },
+  {
+    "cnae": "2052-5/00",
+    "description": "Fabricação de desinfestantes domissanitários"
+  },
+  {
+    "cnae": "2061-4/00",
+    "description": "Fabricação de sabões e detergentes sintéticos"
+  },
+  {
+    "cnae": "2062-2/00",
+    "description": "Fabricação de produtos de limpeza e polimento"
+  },
+  {
+    "cnae": "2063-1/00",
+    "description": "Fabricação de cosméticos, produtos de perfumaria e de higiene pessoal"
+  },
+  {
+    "cnae": "2071-1/00",
+    "description": "Fabricação de tintas, vernizes, esmaltes e lacas"
+  },
+  {
+    "cnae": "2072-0/00",
+    "description": "Fabricação de tintas de impressão"
+  },
+  {
+    "cnae": "2073-8/00",
+    "description": "Fabricação de impermeabilizantes, solventes e produtos afins"
+  },
+  {
+    "cnae": "2091-6/00",
+    "description": "Fabricação de adesivos e selantes"
+  },
+  {
+    "cnae": "2092-4/01",
+    "description": "Fabricação de pólvoras, explosivos e detonantes"
+  },
+  {
+    "cnae": "2092-4/02",
+    "description": "Fabricação de artigos pirotécnicos"
+  },
+  {
+    "cnae": "2092-4/03",
+    "description": "Fabricação de fósforos de segurança"
+  },
+  {
+    "cnae": "2093-2/00",
+    "description": "Fabricação de aditivos de uso industrial"
+  },
+  {
+    "cnae": "2094-1/00",
+    "description": "Fabricação de catalisadores"
+  },
+  {
+    "cnae": "2099-1/01",
+    "description": "Fabricação de chapas, filmes, papéis e outros materiais e produtos químicos para fotografia"
+  },
+  {
+    "cnae": "2099-1/99",
+    "description": "Fabricação de outros produtos químicos Não especificados anteriormente"
+  },
+  {
+    "cnae": "2110-6/00",
+    "description": "Fabricação de produtos farmoquímicos"
+  },
+  {
+    "cnae": "2121-1/01",
+    "description": "Fabricação de medicamentos alopáticos para uso humano"
+  },
+  {
+    "cnae": "2121-1/02",
+    "description": "Fabricação de medicamentos homeopáticos para uso humano"
+  },
+  {
+    "cnae": "2121-1/03",
+    "description": "Fabricação de medicamentos fitoterápicos para uso humano"
+  },
+  {
+    "cnae": "2122-0/00",
+    "description": "Fabricação de medicamentos para uso veterinário"
+  },
+  {
+    "cnae": "2123-8/00",
+    "description": "Fabricação de preparações farmacêuticas"
+  },
+  {
+    "cnae": "2211-1/00",
+    "description": "Fabricação de pneumáticos e de câmaras-de-ar"
+  },
+  {
+    "cnae": "2212-9/00",
+    "description": "Reforma de pneumáticos usados"
+  },
+  {
+    "cnae": "2219-6/00",
+    "description": "Fabricação de artefatos de borracha Não especificados anteriormente"
+  },
+  {
+    "cnae": "2221-8/00",
+    "description": "Fabricação de laminados planos e tubulares de material plástico"
+  },
+  {
+    "cnae": "2222-6/00",
+    "description": "Fabricação de embalagens de material plástico"
+  },
+  {
+    "cnae": "2223-4/00",
+    "description": "Fabricação de tubos e acessórios de material plástico para uso na construção"
+  },
+  {
+    "cnae": "2229-3/01",
+    "description": "Fabricação de artefatos de material plástico para uso pessoal e doméstico"
+  },
+  {
+    "cnae": "2229-3/02",
+    "description": "Fabricação de artefatos de material plástico para usos industriais"
+  },
+  {
+    "cnae": "2229-3/03",
+    "description": "Fabricação de artefatos de material plástico para uso na construção, exceto tubos e acessórios"
+  },
+  {
+    "cnae": "2229-3/99",
+    "description": "Fabricação de artefatos de material plástico para outros usos Não especificados anteriormente"
+  },
+  {
+    "cnae": "2311-7/00",
+    "description": "Fabricação de vidro plano e de segurança"
+  },
+  {
+    "cnae": "2312-5/00",
+    "description": "Fabricação de embalagens de vidro"
+  },
+  {
+    "cnae": "2319-2/00",
+    "description": "Fabricação de artigos de vidro"
+  },
+  {
+    "cnae": "2320-6/00",
+    "description": "Fabricação de cimento"
+  },
+  {
+    "cnae": "2330-3/01",
+    "description": "Fabricação de estruturas pré-moldadas de concreto armado, em série e sob encomenda"
+  },
+  {
+    "cnae": "2330-3/02",
+    "description": "Fabricação de artefatos de cimento para uso na construção"
+  },
+  {
+    "cnae": "2330-3/03",
+    "description": "Fabricação de artefatos de fibrocimento para uso na construção"
+  },
+  {
+    "cnae": "2330-3/04",
+    "description": "Fabricação de casas pré-moldadas de concreto"
+  },
+  {
+    "cnae": "2330-3/05",
+    "description": "Preparação de massa de concreto e argamassa para construção"
+  },
+  {
+    "cnae": "2330-3/99",
+    "description": "Fabricação de outros artefatos e produtos de concreto, cimento, fibrocimento, gesso e materiais semelhantes"
+  },
+  {
+    "cnae": "2341-9/00",
+    "description": "Fabricação de produtos cerâmicos refratários"
+  },
+  {
+    "cnae": "2342-7/01",
+    "description": "Fabricação de azulejos e pisos"
+  },
+  {
+    "cnae": "2342-7/02",
+    "description": "Fabricação de artefatos de cerâmica e barro cozido para uso na construção, exceto azulejos e pisos"
+  },
+  {
+    "cnae": "2349-4/01",
+    "description": "Fabricação de material sanitário de cerâmica"
+  },
+  {
+    "cnae": "2349-4/99",
+    "description": "Fabricação de produtos cerâmicos Não-refratários Não especificados anteriormente"
+  },
+  {
+    "cnae": "2391-5/01",
+    "description": "Britamento de pedras, exceto associado à extração"
+  },
+  {
+    "cnae": "2391-5/02",
+    "description": "Aparelhamento de pedras para construção, exceto associado à extração"
+  },
+  {
+    "cnae": "2391-5/03",
+    "description": "Aparelhamento de placas e execução de trabalhos em mármore, granito, ardósia e outras pedras"
+  },
+  {
+    "cnae": "2392-3/00",
+    "description": "Fabricação de cal e gesso"
+  },
+  {
+    "cnae": "2399-1/01",
+    "description": "Decoração, lapidação, gravação, vitrificação e outros trabalhos em cerâmica, louça, vidro e cristal"
+  },
+  {
+    "cnae": "2399-1/02",
+    "description": "Fabricação de abrasivos"
+  },
+  {
+    "cnae": "2399-1/99",
+    "description": "Fabricação de outros produtos de minerais Não-metálicos Não especificados anteriormente"
+  },
+  {
+    "cnae": "2411-3/00",
+    "description": "Produção de ferro-gusa"
+  },
+  {
+    "cnae": "2412-1/00",
+    "description": "Produção de ferroligas"
+  },
+  {
+    "cnae": "2421-1/00",
+    "description": "Produção de semi-acabados de aço"
+  },
+  {
+    "cnae": "2422-9/01",
+    "description": "Produção de laminados planos de aço ao carbono, revestidos ou Não"
+  },
+  {
+    "cnae": "2422-9/02",
+    "description": "Produção de laminados planos de aços especiais"
+  },
+  {
+    "cnae": "2423-7/01",
+    "description": "Produção de tubos de aço sem costura"
+  },
+  {
+    "cnae": "2423-7/02",
+    "description": "Produção de laminados longos de aço, exceto tubos"
+  },
+  {
+    "cnae": "2424-5/01",
+    "description": "Produção de arames de aço"
+  },
+  {
+    "cnae": "2424-5/02",
+    "description": "Produção de relaminados, trefilados e perfilados de aço, exceto arames"
+  },
+  {
+    "cnae": "2431-8/00",
+    "description": "Produção de tubos de aço com costura"
+  },
+  {
+    "cnae": "2439-3/00",
+    "description": "Produção de outros tubos de ferro e aço"
+  },
+  {
+    "cnae": "2441-5/01",
+    "description": "Produção de alumínio e suas ligas em formas primárias"
+  },
+  {
+    "cnae": "2441-5/02",
+    "description": "Produção de laminados de alumínio"
+  },
+  {
+    "cnae": "2442-3/00",
+    "description": "Metalurgia dos metais preciosos"
+  },
+  {
+    "cnae": "2443-1/00",
+    "description": "Metalurgia do cobre"
+  },
+  {
+    "cnae": "2449-1/01",
+    "description": "Produção de zinco em formas primárias"
+  },
+  {
+    "cnae": "2449-1/02",
+    "description": "Produção de laminados de zinco"
+  },
+  {
+    "cnae": "2449-1/03",
+    "description": "Produção de ânodos para galvanoplastia"
+  },
+  {
+    "cnae": "2449-1/99",
+    "description": "Metalurgia de outros metais Não-ferrosos e suas ligas Não especificados anteriormente"
+  },
+  {
+    "cnae": "2451-2/00",
+    "description": "Fundição de ferro e aço"
+  },
+  {
+    "cnae": "2452-1/00",
+    "description": "Fundição de metais Não-ferrosos e suas ligas"
+  },
+  {
+    "cnae": "2511-0/00",
+    "description": "Fabricação de estruturas metálicas"
+  },
+  {
+    "cnae": "2512-8/00",
+    "description": "Fabricação de esquadrias de metal"
+  },
+  {
+    "cnae": "2513-6/00",
+    "description": "Fabricação de obras de caldeiraria pesada"
+  },
+  {
+    "cnae": "2521-7/00",
+    "description": "Fabricação de tanques, reservatórios metálicos e caldeiras para aquecimento central"
+  },
+  {
+    "cnae": "2522-5/00",
+    "description": "Fabricação de caldeiras geradoras de vapor, exceto para aquecimento central e para veículos"
+  },
+  {
+    "cnae": "2531-4/01",
+    "description": "Produção de forjados de aço"
+  },
+  {
+    "cnae": "2531-4/02",
+    "description": "Produção de forjados de metais Não-ferrosos e suas ligas"
+  },
+  {
+    "cnae": "2532-2/01",
+    "description": "Produção de artefatos estampados de metal"
+  },
+  {
+    "cnae": "2532-2/02",
+    "description": "Metalurgia do pó"
+  },
+  {
+    "cnae": "2539-0/01",
+    "description": "Serviços de usinagem, tornearia e solda"
+  },
+  {
+    "cnae": "2539-0/02",
+    "description": "Serviços de tratamento e revestimento em metais"
+  },
+  {
+    "cnae": "2541-1/00",
+    "description": "Fabricação de artigos de cutelaria"
+  },
+  {
+    "cnae": "2542-0/00",
+    "description": "Fabricação de artigos de serralheria, exceto esquadrias"
+  },
+  {
+    "cnae": "2543-8/00",
+    "description": "Fabricação de ferramentas"
+  },
+  {
+    "cnae": "2550-1/01",
+    "description": "Fabricação de equipamento bélico pesado, exceto veículos militares de combate"
+  },
+  {
+    "cnae": "2550-1/02",
+    "description": "Fabricação de armas de fogo, outras armas e munições"
+  },
+  {
+    "cnae": "2591-8/00",
+    "description": "Fabricação de embalagens metálicas"
+  },
+  {
+    "cnae": "2592-6/01",
+    "description": "Fabricação de produtos de trefilados de metal padronizados"
+  },
+  {
+    "cnae": "2592-6/02",
+    "description": "Fabricação de produtos de trefilados de metal, exceto padronizados"
+  },
+  {
+    "cnae": "2593-4/00",
+    "description": "Fabricação de artigos de metal para uso doméstico e pessoal"
+  },
+  {
+    "cnae": "2599-3/01",
+    "description": "Serviços de confecção de armações metálicas para a construção"
+  },
+  {
+    "cnae": "2599-3/02",
+    "description": "Serviço de corte e dobra de metais"
+  },
+  {
+    "cnae": "2599-3/99",
+    "description": "Fabricação de outros produtos de metal Não especificados anteriormente"
+  },
+  {
+    "cnae": "2610-8/00",
+    "description": "Fabricação de componentes eletrônicos"
+  },
+  {
+    "cnae": "2621-3/00",
+    "description": "Fabricação de equipamentos de informática"
+  },
+  {
+    "cnae": "2622-1/00",
+    "description": "Fabricação de periféricos para equipamentos de informática"
+  },
+  {
+    "cnae": "2631-1/00",
+    "description": "Fabricação de equipamentos transmissores de comunicação, peças e acessórios"
+  },
+  {
+    "cnae": "2632-9/00",
+    "description": "Fabricação de aparelhos telefônicos e de outros equipamentos de comunicação, peças e acessórios"
+  },
+  {
+    "cnae": "2640-0/00",
+    "description": "Fabricação de aparelhos de recepção, reprodução, gravação e amplificação de áudio e vídeo"
+  },
+  {
+    "cnae": "2651-5/00",
+    "description": "Fabricação de aparelhos e equipamentos de medida, teste e controle"
+  },
+  {
+    "cnae": "2652-3/00",
+    "description": "Fabricação de cronômetros e relógios"
+  },
+  {
+    "cnae": "2660-4/00",
+    "description": "Fabricação de aparelhos eletromédicos e eletroterapêuticos e equipamentos de irradiação"
+  },
+  {
+    "cnae": "2670-1/01",
+    "description": "Fabricação de equipamentos e instrumentos ópticos, peças e acessórios"
+  },
+  {
+    "cnae": "2670-1/02",
+    "description": "Fabricação de aparelhos fotográficos e cinematográficos, peças e acessórios"
+  },
+  {
+    "cnae": "2680-9/00",
+    "description": "Fabricação de mídias virgens, magnéticas e ópticas"
+  },
+  {
+    "cnae": "2710-4/01",
+    "description": "Fabricação de geradores de corrente contínua e alternada, peças e acessórios"
+  },
+  {
+    "cnae": "2710-4/02",
+    "description": "Fabricação de transformadores, indutores, conversores, sincronizadores e semelhantes, peças e acessórios"
+  },
+  {
+    "cnae": "2710-4/03",
+    "description": "Fabricação de motores elétricos, peças e acessórios"
+  },
+  {
+    "cnae": "2721-0/00",
+    "description": "Fabricação de pilhas, baterias e acumuladores elétricos, exceto para veículos automotores"
+  },
+  {
+    "cnae": "2722-8/01",
+    "description": "Fabricação de baterias e acumuladores para veículos automotores"
+  },
+  {
+    "cnae": "2722-8/02",
+    "description": "Recondicionamento de baterias e acumuladores para veículos automotores"
+  },
+  {
+    "cnae": "2731-7/00",
+    "description": "Fabricação de aparelhos e equipamentos para distribuição e controle de energia elétrica"
+  },
+  {
+    "cnae": "2732-5/00",
+    "description": "Fabricação de material elétrico para instalações em circuito de consumo"
+  },
+  {
+    "cnae": "2733-3/00",
+    "description": "Fabricação de fios, cabos e condutores elétricos isolados"
+  },
+  {
+    "cnae": "2740-6/01",
+    "description": "Fabricação de lâmpadas"
+  },
+  {
+    "cnae": "2740-6/02",
+    "description": "Fabricação de luminárias e outros equipamentos de iluminação"
+  },
+  {
+    "cnae": "2751-1/00",
+    "description": "Fabricação de fogões, refrigeradores e máquinas de lavar e secar para uso doméstico, peças e acessórios"
+  },
+  {
+    "cnae": "2759-7/01",
+    "description": "Fabricação de aparelhos elétricos de uso pessoal, peças e acessórios"
+  },
+  {
+    "cnae": "2759-7/99",
+    "description": "Fabricação de outros aparelhos eletrodomésticos Não especificados anteriormente, peças e acessórios"
+  },
+  {
+    "cnae": "2790-2/01",
+    "description": "Fabricação de eletrodos, contatos e outros artigos de carvão e grafita para uso elétrico, eletroímãs e isoladores"
+  },
+  {
+    "cnae": "2790-2/02",
+    "description": "Fabricação de equipamentos para sinalização e alarme"
+  },
+  {
+    "cnae": "2790-2/99",
+    "description": "Fabricação de outros equipamentos e aparelhos elétricos Não especificados anteriormente"
+  },
+  {
+    "cnae": "2811-9/00",
+    "description": "Fabricação de motores e turbinas, peças e acessórios, exceto para aviões e veículos rodoviários"
+  },
+  {
+    "cnae": "2812-7/00",
+    "description": "Fabricação de equipamentos hidráulicos e pneumáticos, peças e acessórios, exceto válvulas"
+  },
+  {
+    "cnae": "2813-5/00",
+    "description": "Fabricação de válvulas, registros e dispositivos semelhantes, peças e acessórios"
+  },
+  {
+    "cnae": "2814-3/01",
+    "description": "Fabricação de compressores para uso industrial, peças e acessórios"
+  },
+  {
+    "cnae": "2814-3/02",
+    "description": "Fabricação de compressores para uso Não-industrial, peças e acessórios"
+  },
+  {
+    "cnae": "2815-1/01",
+    "description": "Fabricação de rolamentos para fins industriais"
+  },
+  {
+    "cnae": "2815-1/02",
+    "description": "Fabricação de equipamentos de transmissão para fins industriais, exceto rolamentos"
+  },
+  {
+    "cnae": "2821-6/01",
+    "description": "Fabricação de fornos industriais, aparelhos e equipamentos Não-elétricos para instalações térmicas, peças e acessórios"
+  },
+  {
+    "cnae": "2821-6/02",
+    "description": "Fabricação de estufas e fornos elétricos para fins industriais, peças e acessórios"
+  },
+  {
+    "cnae": "2822-4/01",
+    "description": "Fabricação de máquinas, equipamentos e aparelhos para transporte e elevação de pessoas, peças e acessórios"
+  },
+  {
+    "cnae": "2822-4/02",
+    "description": "Fabricação de máquinas, equipamentos e aparelhos para transporte e elevação de cargas, peças e acessórios"
+  },
+  {
+    "cnae": "2823-2/00",
+    "description": "Fabricação de máquinas e aparelhos de refrigeração e ventilação para uso industrial e comercial, peças e acessórios"
+  },
+  {
+    "cnae": "2824-1/01",
+    "description": "Fabricação de aparelhos e equipamentos de ar condicionado para uso industrial"
+  },
+  {
+    "cnae": "2824-1/02",
+    "description": "Fabricação de aparelhos e equipamentos de ar condicionado para uso Não-industrial"
+  },
+  {
+    "cnae": "2825-9/00",
+    "description": "Fabricação de máquinas e equipamentos para saneamento básico e ambiental, peças e acessórios"
+  },
+  {
+    "cnae": "2829-1/01",
+    "description": "Fabricação de máquinas de escrever, calcular e outros equipamentos Não-eletrônicos para escritório, peças e acessórios"
+  },
+  {
+    "cnae": "2829-1/99",
+    "description": "Fabricação de outras máquinas e equipamentos de uso geral Não especificados anteriormente, peças e acessórios"
+  },
+  {
+    "cnae": "2831-3/00",
+    "description": "Fabricação de tratores agrícolas, peças e acessórios"
+  },
+  {
+    "cnae": "2832-1/00",
+    "description": "Fabricação de equipamentos para irrigação agrícola, peças e acessórios"
+  },
+  {
+    "cnae": "2833-0/00",
+    "description": "Fabricação de máquinas e equipamentos para a agricultura e pecuária, peças e acessórios, exceto para irrigação"
+  },
+  {
+    "cnae": "2840-2/00",
+    "description": "Fabricação de máquinas-ferramenta, peças e acessórios"
+  },
+  {
+    "cnae": "2851-8/00",
+    "description": "Fabricação de máquinas e equipamentos para a prospecção e extração de petróleo, peças e acessórios"
+  },
+  {
+    "cnae": "2852-6/00",
+    "description": "Fabricação de outras máquinas e equipamentos para uso na extração mineral, peças e acessórios, exceto na extração de petróleo"
+  },
+  {
+    "cnae": "2853-4/00",
+    "description": "Fabricação de tratores, peças e acessórios, exceto agrícolas"
+  },
+  {
+    "cnae": "2854-2/00",
+    "description": "Fabricação de máquinas e equipamentos para terraplenagem, pavimentação e construção, peças e acessórios, exceto tratores"
+  },
+  {
+    "cnae": "2861-5/00",
+    "description": "Fabricação de máquinas para a indústria metalúrgica, peças e acessórios, exceto máquinas-ferramenta"
+  },
+  {
+    "cnae": "2862-3/00",
+    "description": "Fabricação de máquinas e equipamentos para as indústrias de alimentos, bebidas e fumo, peças e acessórios"
+  },
+  {
+    "cnae": "2863-1/00",
+    "description": "Fabricação de máquinas e equipamentos para a indústria têxtil, peças e acessórios"
+  },
+  {
+    "cnae": "2864-0/00",
+    "description": "Fabricação de máquinas e equipamentos para as indústrias do vestuário, do couro e de calçados, peças e acessórios"
+  },
+  {
+    "cnae": "2865-8/00",
+    "description": "Fabricação de máquinas e equipamentos para as indústrias de celulose, papel e papelão e artefatos, peças e acessórios"
+  },
+  {
+    "cnae": "2866-6/00",
+    "description": "Fabricação de máquinas e equipamentos para a indústria do plástico, peças e acessórios"
+  },
+  {
+    "cnae": "2869-1/00",
+    "description": "Fabricação de máquinas e equipamentos para uso industrial específico Não especificados anteriormente, peças e acessórios"
+  },
+  {
+    "cnae": "2910-7/01",
+    "description": "Fabricação de automóveis, camionetas e utilitários"
+  },
+  {
+    "cnae": "2910-7/02",
+    "description": "Fabricação de chassis com motor para automóveis, camionetas e utilitários"
+  },
+  {
+    "cnae": "2910-7/03",
+    "description": "Fabricação de motores para automóveis, camionetas e utilitários"
+  },
+  {
+    "cnae": "2920-4/01",
+    "description": "Fabricação de caminhões e ônibus"
+  },
+  {
+    "cnae": "2920-4/02",
+    "description": "Fabricação de motores para caminhões e ônibus"
+  },
+  {
+    "cnae": "2930-1/01",
+    "description": "Fabricação de cabines, carrocerias e reboques para caminhões"
+  },
+  {
+    "cnae": "2930-1/02",
+    "description": "Fabricação de carrocerias para ônibus"
+  },
+  {
+    "cnae": "2930-1/03",
+    "description": "Fabricação de cabines, carrocerias e reboques para outros veículos automotores, exceto caminhões e ônibus"
+  },
+  {
+    "cnae": "2941-7/00",
+    "description": "Fabricação de peças e acessórios para o sistema motor de veículos automotores"
+  },
+  {
+    "cnae": "2942-5/00",
+    "description": "Fabricação de peças e acessórios para os sistemas de marcha e transmissão de veículos automotores"
+  },
+  {
+    "cnae": "2943-3/00",
+    "description": "Fabricação de peças e acessórios para o sistema de freios de veículos automotores"
+  },
+  {
+    "cnae": "2944-1/00",
+    "description": "Fabricação de peças e acessórios para o sistema de direção e suspensão de veículos automotores"
+  },
+  {
+    "cnae": "2945-0/00",
+    "description": "Fabricação de material elétrico e eletrônico para veículos automotores, exceto baterias"
+  },
+  {
+    "cnae": "2949-2/01",
+    "description": "Fabricação de bancos e estofados para veículos automotores"
+  },
+  {
+    "cnae": "2949-2/99",
+    "description": "Fabricação de outras peças e acessórios para veículos automotores Não especificadas anteriormente"
+  },
+  {
+    "cnae": "2950-6/00",
+    "description": "Recondicionamento e recuperação de motores para veículos automotores"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3011-3/01",
+    "description": "Construção de embarcações de grande porte"
+  },
+  {
+    "cnae": "3011-3/02",
+    "description": "Construção de embarcações para uso comercial e para usos especiais, exceto de grande porte"
+  },
+  {
+    "cnae": "3012-1/00",
+    "description": "Construção de embarcações para esporte e lazer"
+  },
+  {
+    "cnae": "3031-8/00",
+    "description": "Fabricação de locomotivas, vagões e outros materiais rodantes"
+  },
+  {
+    "cnae": "3032-6/00",
+    "description": "Fabricação de peças e acessórios para veículos ferroviários"
+  },
+  {
+    "cnae": "3041-5/00",
+    "description": "Fabricação de aeronaves"
+  },
+  {
+    "cnae": "3042-3/00",
+    "description": "Fabricação de turbinas, motores e outros componentes e peças para aeronaves"
+  },
+  {
+    "cnae": "3050-4/00",
+    "description": "Fabricação de veículos militares de combate"
+  },
+  {
+    "cnae": "3091-1/01",
+    "description": "Fabricação de motocicletas"
+  },
+  {
+    "cnae": "3091-1/02",
+    "description": "Fabricação de peças e acessórios para motocicletas"
+  },
+  {
+    "cnae": "3092-0/00",
+    "description": "Fabricação de bicicletas e triciclos Não-motorizados, peças e acessórios"
+  },
+  {
+    "cnae": "3099-7/00",
+    "description": "Fabricação de equipamentos de transporte Não especificados anteriormente"
+  },
+  {
+    "cnae": "3101-2/00",
+    "description": "Fabricação de móveis com predominância de madeira"
+  },
+  {
+    "cnae": "3102-1/00",
+    "description": "Fabricação de móveis com predominância de metal"
+  },
+  {
+    "cnae": "3103-9/00",
+    "description": "Fabricação de móveis de outros materiais, exceto madeira e metal"
+  },
+  {
+    "cnae": "3104-7/00",
+    "description": "Fabricação de colchões"
+  },
+  {
+    "cnae": "3211-6/01",
+    "description": "Lapidação de gemas"
+  },
+  {
+    "cnae": "3211-6/02",
+    "description": "Fabricação de artefatos de joalheria e ourivesaria"
+  },
+  {
+    "cnae": "3211-6/03",
+    "description": "Cunhagem de moedas e medalhas"
+  },
+  {
+    "cnae": "3212-4/00",
+    "description": "Fabricação de bijuterias e artefatos semelhantes"
+  },
+  {
+    "cnae": "3220-5/00",
+    "description": "Fabricação de instrumentos musicais, peças e acessórios"
+  },
+  {
+    "cnae": "3230-2/00",
+    "description": "Fabricação de artefatos para pesca e esporte"
+  },
+  {
+    "cnae": "3240-0/01",
+    "description": "Fabricação de jogos eletrônicos"
+  },
+  {
+    "cnae": "3240-0/02",
+    "description": "Fabricação de mesas de bilhar, de sinuca e acessórios Não associada à locação"
+  },
+  {
+    "cnae": "3240-0/03",
+    "description": "Fabricação de mesas de bilhar, de sinuca e acessórios associada à locação"
+  },
+  {
+    "cnae": "3240-0/99",
+    "description": "Fabricação de outros brinquedos e jogos recreativos Não especificados anteriormente"
+  },
+  {
+    "cnae": "3250-7/01",
+    "description": "Fabricação de instrumentos Não-eletrônicos e utensílios para uso médico, cirúrgico, odontológico e de laboratório"
+  },
+  {
+    "cnae": "3250-7/02",
+    "description": "Fabricação de mobiliário para uso médico, cirúrgico, odontológico e de laboratório"
+  },
+  {
+    "cnae": "3250-7/03",
+    "description": "Fabricação de aparelhos e utensílios para correção de defeitos físicos e aparelhos ortopédicos em geral sob encomenda"
+  },
+  {
+    "cnae": "3250-7/04",
+    "description": "Fabricação de aparelhos e utensílios para correção de defeitos físicos e aparelhos ortopédicos em geral, exceto sob encomenda"
+  },
+  {
+    "cnae": "3250-7/05",
+    "description": "Fabricação de materiais para medicina e odontologia"
+  },
+  {
+    "cnae": "3250-7/06",
+    "description": "Serviços de prótese dentária"
+  },
+  {
+    "cnae": "3250-7/07",
+    "description": "Fabricação de artigos ópticos"
+  },
+  {
+    "cnae": "3250-7/09",
+    "description": "Serviço de laboratório óptico"
+  },
+  {
+    "cnae": "3291-4/00",
+    "description": "Fabricação de escovas, pincéis e vassouras"
+  },
+  {
+    "cnae": "3292-2/01",
+    "description": "Fabricação de roupas de proteção e segurança e resistentes a fogo"
+  },
+  {
+    "cnae": "3292-2/02",
+    "description": "Fabricação de equipamentos e acessórios para segurança pessoal e profissional"
+  },
+  {
+    "cnae": "3299-0/01",
+    "description": "Fabricação de guarda-chuvas e Similares"
+  },
+  {
+    "cnae": "3299-0/02",
+    "description": "Fabricação de canetas, lápis e outros artigos para escritório"
+  },
+  {
+    "cnae": "3299-0/03",
+    "description": "Fabricação de letras, letreiros e placas de qualquer material, exceto luminosos"
+  },
+  {
+    "cnae": "3299-0/04",
+    "description": "Fabricação de painéis e letreiros luminosos"
+  },
+  {
+    "cnae": "3299-0/05",
+    "description": "Fabricação de aviamentos para costura"
+  },
+  {
+    "cnae": "3299-0/06",
+    "description": "Fabricação de velas, inclusive decorativas"
+  },
+  {
+    "cnae": "3299-0/99",
+    "description": "Fabricação de produtos diversos Não especificados anteriormente"
+  },
+  {
+    "cnae": "3311-2/00",
+    "description": "Manutenção e reparação de tanques, reservatórios metálicos e caldeiras, exceto para veículos"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3312-1/02",
+    "description": "Manutenção e reparação de aparelhos e instrumentos de medida, teste e controle"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3312-1/03",
+    "description": "Manutenção e reparação de aparelhos eletromédicos e eletroterapêuticos e equipamentos de irradiação"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3312-1/04",
+    "description": "Manutenção e reparação de equipamentos e instrumentos ópticos"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3313-9/01",
+    "description": "Manutenção e reparação de geradores, transformadores e motores elétricos"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3313-9/02",
+    "description": "Manutenção e reparação de baterias e acumuladores elétricos, exceto para veículos"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3313-9/99",
+    "description": "Manutenção e reparação de máquinas, aparelhos e materiais elétricos Não especificados anteriormente"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3314-7/01",
+    "description": "Manutenção e reparação de máquinas motrizes Não-elétricas"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3314-7/02",
+    "description": "Manutenção e reparação de equipamentos hidráulicos e pneumáticos, exceto válvulas"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3314-7/03",
+    "description": "Manutenção e reparação de válvulas industriais"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3314-7/04",
+    "description": "Manutenção e reparação de compressores"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3314-7/05",
+    "description": "Manutenção e reparação de equipamentos de transmissão para fins industriais"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3314-7/06",
+    "description": "Manutenção e reparação de máquinas, aparelhos e equipamentos para instalações térmicas"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3314-7/07",
+    "description": "Manutenção e reparação de máquinas e aparelhos de refrigeração e ventilação para uso industrial e comercial"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3314-7/08",
+    "description": "Manutenção e reparação de máquinas, equipamentos e aparelhos para transporte e elevação de cargas"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3314-7/09",
+    "description": "Manutenção e reparação de máquinas de escrever, calcular e de outros equipamentos Não-eletrônicos para escritório"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3314-7/10",
+    "description": "Manutenção e reparação de máquinas e equipamentos para uso geral Não especificados anteriormente"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3314-7/11",
+    "description": "Manutenção e reparação de máquinas e equipamentos para agricultura e pecuária"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3314-7/12",
+    "description": "Manutenção e reparação de tratores agrícolas"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3314-7/13",
+    "description": "Manutenção e reparação de máquinas-ferramenta"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3314-7/14",
+    "description": "Manutenção e reparação de máquinas e equipamentos para a prospecção e extração de petróleo"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3314-7/15",
+    "description": "Manutenção e reparação de máquinas e equipamentos para uso na extração mineral, exceto na extração de petróleo"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3314-7/16",
+    "description": "Manutenção e reparação de tratores, exceto agrícolas"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3314-7/17",
+    "description": "Manutenção e reparação de máquinas e equipamentos de terraplenagem, pavimentação e construção, exceto tratores"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3314-7/18",
+    "description": "Manutenção e reparação de máquinas para a indústria metalúrgica, exceto máquinas-ferramenta"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3314-7/19",
+    "description": "Manutenção e reparação de máquinas e equipamentos para as indústrias de alimentos, bebidas e fumo"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3314-7/20",
+    "description": "Manutenção e reparação de máquinas e equipamentos para a indústria têxtil, do vestuário, do couro e calçados"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3314-7/21",
+    "description": "Manutenção e reparação de máquinas e aparelhos para a indústria de celulose, papel e papelão e artefatos"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3314-7/22",
+    "description": "Manutenção e reparação de máquinas e aparelhos para a indústria do plástico"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3314-7/99",
+    "description": "Manutenção e reparação de outras máquinas e equipamentos para usos industriais Não especificados anteriormente"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3315-5/00",
+    "description": "Manutenção e reparação de veículos ferroviários"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3316-3/01",
+    "description": "Manutenção e reparação de aeronaves, exceto a manutenção na pista"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3316-3/02",
+    "description": "Manutenção de aeronaves na pista"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3317-1/01",
+    "description": "Manutenção e reparação de embarcações e estruturas flutuantes"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3317-1/02",
+    "description": "Manutenção e reparação de embarcações para esporte e lazer"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3319-8/00",
+    "description": "Manutenção e reparação de equipamentos e produtos Não especificados anteriormente"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3321-0/00",
+    "description": "Instalação de máquinas e equipamentos industriais"
+  },
+  {
+    "cnae": "3329-5/01",
+    "description": "Serviços de montagem de móveis de qualquer material"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "3329-5/99",
+    "description": "Instalação de outros equipamentos Não especificados anteriormente"
+  },
+  {
+    "cnae": "3511-5/01",
+    "description": "Geração de energia elétrica"
+  },
+  {
+    "cnae": "3511-5/02",
+    "description": "Atividades de coordenação e controle da operação da geração e transmissão de energia elétrica"
+  },
+  {
+    "cnae": "3512-3/00",
+    "description": "Transmissão de energia elétrica"
+  },
+  {
+    "cnae": "3513-1/00",
+    "description": "Comércio atacadista de energia elétrica"
+  },
+  {
+    "cnae": "3514-0/00",
+    "description": "Distribuição de energia elétrica"
+  },
+  {
+    "cnae": "3520-4/01",
+    "description": "Produção de gás; processamento de gás natural"
+  },
+  {
+    "cnae": "3520-4/02",
+    "description": "Distribuição de combustíveis gasosos por redes urbanas"
+  },
+  {
+    "cnae": "3530-1/00",
+    "description": "Produção e distribuição de vapor, água quente e ar condicionado"
+  },
+  {
+    "cnae": "3600-6/01",
+    "description": "Captação, tratamento e distribuição de água"
+  },
+  {
+    "cnae": "3600-6/02",
+    "description": "Distribuição de água por caminhões"
+  },
+  {
+    "cnae": "3701-1/00",
+    "description": "Gestão de redes de esgoto"
+  },
+  {
+    "cnae": "3702-9/00",
+    "description": "Atividades relacionadas a esgoto, exceto a gestão de redes"
+  },
+  {
+    "cnae": "3811-4/00",
+    "description": "Coleta de resíduos Não-perigosos"
+  },
+  {
+    "cnae": "3812-2/00",
+    "description": "Coleta de resíduos perigosos"
+  },
+  {
+    "cnae": "3821-1/00",
+    "description": "Tratamento e disposição de resíduos Não-perigosos"
+  },
+  {
+    "cnae": "3822-0/00",
+    "description": "Tratamento e disposição de resíduos perigosos"
+  },
+  {
+    "cnae": "3831-9/01",
+    "description": "Recuperação de sucatas de alumínio"
+  },
+  {
+    "cnae": "3831-9/99",
+    "description": "Recuperação de materiais metálicos, exceto alumínio"
+  },
+  {
+    "cnae": "3832-7/00",
+    "description": "Recuperação de materiais plásticos"
+  },
+  {
+    "cnae": "3839-4/01",
+    "description": "Usinas de compostagem"
+  },
+  {
+    "cnae": "3839-4/99",
+    "description": "Recuperação de materiais Não especificados anteriormente"
+  },
+  {
+    "cnae": "3900-5/00",
+    "description": "Descontaminação e outros serviços de gestão de resíduos"
+  },
+  {
+    "cnae": "4110-7/00",
+    "description": "Incorporação de empreendimentos imobiliários"
+  },
+  {
+    "cnae": "4120-4/00",
+    "description": "Construção de edifícios"
+  },
+  {
+    "cnae": "4211-1/01",
+    "description": "Construção de rodovias e ferrovias"
+  },
+  {
+    "cnae": "4211-1/02",
+    "description": "Pintura para sinalização em pistas rodoviárias e aeroportos"
+  },
+  {
+    "cnae": "4212-0/00",
+    "description": "Construção de obras-de-arte especiais"
+  },
+  {
+    "cnae": "4213-8/00",
+    "description": "Obras de urbanização - ruas, praças e calçadas"
+  },
+  {
+    "cnae": "4221-9/01",
+    "description": "Construção de barragens e represas para geração de energia elétrica"
+  },
+  {
+    "cnae": "4221-9/02",
+    "description": "Construção de estações e redes de distribuição de energia elétrica"
+  },
+  {
+    "cnae": "4221-9/03",
+    "description": "Manutenção de redes de distribuição de energia elétrica"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "4221-9/04",
+    "description": "Construção de estações e redes de telecomunicações"
+  },
+  {
+    "cnae": "4221-9/05",
+    "description": "Manutenção de estações e redes de telecomunicações"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "4222-7/01",
+    "description": "Construção de redes de abastecimento de água, coleta de esgoto e construções correlatas, exceto obras de irrigação"
+  },
+  {
+    "cnae": "4222-7/02",
+    "description": "Obras de irrigação"
+  },
+  {
+    "cnae": "4223-5/00",
+    "description": "Construção de redes de transportes por dutos, exceto para água e esgoto"
+  },
+  {
+    "cnae": "4291-0/00",
+    "description": "Obras portuárias, marítimas e fluviais"
+  },
+  {
+    "cnae": "4292-8/01",
+    "description": "Montagem de estruturas metálicas"
+  },
+  {
+    "cnae": "4292-8/02",
+    "description": "Obras de montagem industrial"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "4299-5/01",
+    "description": "Construção de instalações esportivas e recreativas"
+  },
+  {
+    "cnae": "4299-5/99",
+    "description": "Outras obras de engenharia civil Não especificadas anteriormente"
+  },
+  {
+    "cnae": "4311-8/01",
+    "description": "Demolição de edifícios e outras estruturas"
+  },
+  {
+    "cnae": "4311-8/02",
+    "description": "Preparação de canteiro e limpeza de terreno"
+  },
+  {
+    "cnae": "4312-6/00",
+    "description": "Perfurações e sondagens"
+  },
+  {
+    "cnae": "4313-4/00",
+    "description": "Obras de terraplenagem"
+  },
+  {
+    "cnae": "4319-3/00",
+    "description": "Serviços de preparação do terreno Não especificados anteriormente"
+  },
+  {
+    "cnae": "4321-5/00",
+    "description": "Instalação e manutenção elétrica"
+  },
+  {
+    "cnae": "4322-3/01",
+    "description": "Instalações hidráulicas, sanitárias e de gás"
+  },
+  {
+    "cnae": "4322-3/02",
+    "description": "Instalação e manutenção de sistemas centrais de ar condicionado, de ventilação e refrigeração"
+  },
+  {
+    "cnae": "4322-3/03",
+    "description": "Instalações de sistema de prevenção contra incêndio"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "4329-1/01",
+    "description": "Instalação de painéis publicitários"
+  },
+  {
+    "cnae": "4329-1/02",
+    "description": "Instalação de equipamentos para orientação à navegação marítima, fluvial e lacustre"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "4329-1/03",
+    "description": "Instalação, manutenção e reparação de elevadores, escadas e esteiras rolantes"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "4329-1/04",
+    "description": "Montagem e instalação de sistemas e equipamentos de iluminação e sinalização em vias públicas, portos e aeroportos"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "4329-1/05",
+    "description": "Tratamentos térmicos, acústicos ou de vibração"
+  },
+  {
+    "cnae": "4329-1/99",
+    "description": "Outras obras de instalações em construções Não especificadas anteriormente"
+  },
+  {
+    "cnae": "4330-4/01",
+    "description": "Impermeabilização em obras de engenharia civil"
+  },
+  {
+    "cnae": "4330-4/02",
+    "description": "Instalação de portas, janelas, tetos, divisórias e armários embutidos de qualquer material"
+  },
+  {
+    "cnae": "4330-4/03",
+    "description": "Obras de acabamento em gesso e estuque"
+  },
+  {
+    "cnae": "4330-4/04",
+    "description": "Serviços de pintura de edifícios em geral"
+  },
+  {
+    "cnae": "4330-4/05",
+    "description": "Aplicação de revestimentos e de resinas em interiores e exteriores"
+  },
+  {
+    "cnae": "4330-4/99",
+    "description": "Outras obras de acabamento da construção"
+  },
+  {
+    "cnae": "4391-6/00",
+    "description": "Obras de fundações"
+  },
+  {
+    "cnae": "4399-1/01",
+    "description": "Administração de obras"
+  },
+  {
+    "cnae": "4399-1/02",
+    "description": "Montagem e desmontagem de andaimes e outras estruturas temporárias"
+  },
+  {
+    "cnae": "4399-1/03",
+    "description": "Obras de alvenaria"
+  },
+  {
+    "cnae": "4399-1/04",
+    "description": "Serviços de operação e fornecimento de equipamentos para transporte e elevação de cargas e pessoas para uso em obras"
+  },
+  {
+    "cnae": "4399-1/05",
+    "description": "Perfuração e construção de poços de água"
+  },
+  {
+    "cnae": "4399-1/99",
+    "description": "Serviços especializados para construção Não especificados anteriormente"
+  },
+  {
+    "cnae": "4511-1/01",
+    "description": "Comércio a varejo de automóveis, camionetas e utilitários novos"
+  },
+  {
+    "cnae": "4511-1/02",
+    "description": "Comércio a varejo de automóveis, camionetas e utilitários usados"
+  },
+  {
+    "cnae": "4511-1/03",
+    "description": "Comércio por atacado de automóveis, camionetas e utilitários novos e usados"
+  },
+  {
+    "cnae": "4511-1/04",
+    "description": "Comércio por atacado de caminhões novos e usados"
+  },
+  {
+    "cnae": "4511-1/05",
+    "description": "Comércio por atacado de reboques e semi-reboques novos e usados"
+  },
+  {
+    "cnae": "4511-1/06",
+    "description": "Comércio por atacado de ônibus e microônibus novos e usados"
+  },
+  {
+    "cnae": "4512-9/01",
+    "description": "Representantes comerciais e agentes do comércio de veículos automotores"
+  },
+  {
+    "cnae": "4512-9/02",
+    "description": "Comércio sob consignação de veículos automotores"
+  },
+  {
+    "cnae": "4520-0/01",
+    "description": "Serviços de manutenção e reparação mecânica de veículos automotores"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "4520-0/02",
+    "description": "Serviços de lanternagem ou funilaria e pintura de veículos automotores"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "4520-0/03",
+    "description": "Serviços de manutenção e reparação elétrica de veículos automotores"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "4520-0/04",
+    "description": "Serviços de alinhamento e balanceamento de veículos automotores"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "4520-0/05",
+    "description": "Serviços de lavagem, lubrificação e polimento de veículos automotores"
+  },
+  {
+    "cnae": "4520-0/06",
+    "description": "Serviços de borracharia para veículos automotores"
+  },
+  {
+    "cnae": "4520-0/07",
+    "description": "Serviços de instalação, manutenção e reparação de acessórios para veículos automotores"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "4520-0/08",
+    "description": "Serviços de capotaria"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "4530-7/01",
+    "description": "Comércio por atacado de peças e acessórios novos para veículos automotores"
+  },
+  {
+    "cnae": "4530-7/02",
+    "description": "Comércio por atacado de pneumáticos e câmaras-de-ar"
+  },
+  {
+    "cnae": "4530-7/03",
+    "description": "Comércio a varejo de peças e acessórios novos para veículos automotores"
+  },
+  {
+    "cnae": "4530-7/04",
+    "description": "Comércio a varejo de peças e acessórios usados para veículos automotores"
+  },
+  {
+    "cnae": "4530-7/05",
+    "description": "Comércio a varejo de pneumáticos e câmaras-de-ar"
+  },
+  {
+    "cnae": "4530-7/06",
+    "description": "Representantes comerciais e agentes do comércio de peças e acessórios novos e usados para veículos automotores"
+  },
+  {
+    "cnae": "4541-2/01",
+    "description": "Comércio por atacado de motocicletas e motonetas"
+  },
+  {
+    "cnae": "4541-2/02",
+    "description": "Comércio por atacado de peças e acessórios para motocicletas e motonetas"
+  },
+  {
+    "cnae": "4541-2/03",
+    "description": "Comércio a varejo de motocicletas e motonetas novas"
+  },
+  {
+    "cnae": "4541-2/04",
+    "description": "Comércio a varejo de motocicletas e motonetas usadas"
+  },
+  {
+    "cnae": "4541-2/05",
+    "description": "Comércio a varejo de peças e acessórios para motocicletas e motonetas"
+  },
+  {
+    "cnae": "4542-1/01",
+    "description": "Representantes comerciais e agentes do comércio de motocicletas e motonetas, peças e acessórios"
+  },
+  {
+    "cnae": "4542-1/02",
+    "description": "Comércio sob consignação de motocicletas e motonetas"
+  },
+  {
+    "cnae": "4543-9/00",
+    "description": "Manutenção e reparação de motocicletas e motonetas"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "4611-7/00",
+    "description": "Representantes comerciais e agentes do comércio de matérias-primas agrícolas e animais vivos"
+  },
+  {
+    "cnae": "4612-5/00",
+    "description": "Representantes comerciais e agentes do comércio de combustíveis, minerais, produtos siderúrgicos e químicos"
+  },
+  {
+    "cnae": "4613-3/00",
+    "description": "Representantes comerciais e agentes do comércio de madeira, material de construção e ferragens"
+  },
+  {
+    "cnae": "4614-1/00",
+    "description": "Representantes comerciais e agentes do comércio de máquinas, equipamentos, embarcações e aeronaves"
+  },
+  {
+    "cnae": "4615-0/00",
+    "description": "Representantes comerciais e agentes do comércio de eletrodomésticos, móveis e artigos de uso doméstico"
+  },
+  {
+    "cnae": "4616-8/00",
+    "description": "Representantes comerciais e agentes do comércio de têxteis, vestuário, calçados e artigos de viagem"
+  },
+  {
+    "cnae": "4617-6/00",
+    "description": "Representantes comerciais e agentes do comércio de produtos alimentícios, bebidas e fumo"
+  },
+  {
+    "cnae": "4618-4/01",
+    "description": "Representantes comerciais e agentes do comércio de medicamentos, cosméticos e produtos de perfumaria"
+  },
+  {
+    "cnae": "4618-4/02",
+    "description": "Representantes comerciais e agentes do comércio de instrumentos e materiais odonto-médico-hospitalares"
+  },
+  {
+    "cnae": "4618-4/03",
+    "description": "Representantes comerciais e agentes do comércio de jornais, revistas e outras publicações"
+  },
+  {
+    "cnae": "4618-4/99",
+    "description": "Outros representantes comerciais e agentes do comércio especializado em produtos Não especificados anteriormente"
+  },
+  {
+    "cnae": "4619-2/00",
+    "description": "Representantes comerciais e agentes do comércio de mercadorias em geral Não especializado"
+  },
+  {
+    "cnae": "4621-4/00",
+    "description": "Comércio atacadista de café em grão"
+  },
+  {
+    "cnae": "4622-2/00",
+    "description": "Comércio atacadista de soja"
+  },
+  {
+    "cnae": "4623-1/01",
+    "description": "Comércio atacadista de animais vivos"
+  },
+  {
+    "cnae": "4623-1/02",
+    "description": "Comércio atacadista de couros, lãs, peles e outros subprodutos Não-comestíveis de origem animal"
+  },
+  {
+    "cnae": "4623-1/03",
+    "description": "Comércio atacadista de algodão"
+  },
+  {
+    "cnae": "4623-1/04",
+    "description": "Comércio atacadista de fumo em folha Não beneficiado"
+  },
+  {
+    "cnae": "4623-1/05",
+    "description": "Comércio atacadista de cacau"
+  },
+  {
+    "cnae": "4623-1/06",
+    "description": "Comércio atacadista de sementes, flores, plantas e gramas"
+  },
+  {
+    "cnae": "4623-1/07",
+    "description": "Comércio atacadista de sisal"
+  },
+  {
+    "cnae": "4623-1/08",
+    "description": "Comércio atacadista de matérias-primas agrícolas com atividade de fracionamento e acondicionamento associada"
+  },
+  {
+    "cnae": "4623-1/09",
+    "description": "Comércio atacadista de alimentos para animais"
+  },
+  {
+    "cnae": "4623-1/99",
+    "description": "Comércio atacadista de matérias-primas agrícolas Não especificadas anteriormente"
+  },
+  {
+    "cnae": "4631-1/00",
+    "description": "Comércio atacadista de leite e laticínios"
+  },
+  {
+    "cnae": "4632-0/01",
+    "description": "Comércio atacadista de cereais e leguminosas beneficiados"
+  },
+  {
+    "cnae": "4632-0/02",
+    "description": "Comércio atacadista de farinhas, amidos e féculas"
+  },
+  {
+    "cnae": "4632-0/03",
+    "description": "Comércio atacadista de cereais e leguminosas beneficiados, farinhas, amidos e féculas, com atividade de fracionamento e acondicionamento associada"
+  },
+  {
+    "cnae": "4633-8/01",
+    "description": "Comércio atacadista de frutas, verduras, raízes, tubérculos, hortaliças e legumes frescos"
+  },
+  {
+    "cnae": "4633-8/02",
+    "description": "Comércio atacadista de aves vivas e ovos"
+  },
+  {
+    "cnae": "4633-8/03",
+    "description": "Comércio atacadista de coelhos e outros pequenos animais vivos para alimentação"
+  },
+  {
+    "cnae": "4634-6/01",
+    "description": "Comércio atacadista de carnes bovinas e suínas e derivados"
+  },
+  {
+    "cnae": "4634-6/02",
+    "description": "Comércio atacadista de aves abatidas e derivados"
+  },
+  {
+    "cnae": "4634-6/03",
+    "description": "Comércio atacadista de pescados e frutos do mar"
+  },
+  {
+    "cnae": "4634-6/99",
+    "description": "Comércio atacadista de carnes e derivados de outros animais"
+  },
+  {
+    "cnae": "4635-4/01",
+    "description": "Comércio atacadista de água mineral"
+  },
+  {
+    "cnae": "4635-4/02",
+    "description": "Comércio atacadista de cerveja, chope e refrigerante"
+  },
+  {
+    "cnae": "4635-4/03",
+    "description": "Comércio atacadista de bebidas com atividade de fracionamento e acondicionamento associada"
+  },
+  {
+    "cnae": "4635-4/99",
+    "description": "Comércio atacadista de bebidas Não especificadas anteriormente"
+  },
+  {
+    "cnae": "4636-2/01",
+    "description": "Comércio atacadista de fumo beneficiado"
+  },
+  {
+    "cnae": "4636-2/02",
+    "description": "Comércio atacadista de cigarros, cigarrilhas e charutos"
+  },
+  {
+    "cnae": "4637-1/01",
+    "description": "Comércio atacadista de café torrado, moído e solúvel"
+  },
+  {
+    "cnae": "4637-1/02",
+    "description": "Comércio atacadista de açúcar"
+  },
+  {
+    "cnae": "4637-1/03",
+    "description": "Comércio atacadista de óleos e gorduras"
+  },
+  {
+    "cnae": "4637-1/04",
+    "description": "Comércio atacadista de pães, bolos, biscoitos e Similares"
+  },
+  {
+    "cnae": "4637-1/05",
+    "description": "Comércio atacadista de massas alimentícias"
+  },
+  {
+    "cnae": "4637-1/06",
+    "description": "Comércio atacadista de sorvetes"
+  },
+  {
+    "cnae": "4637-1/07",
+    "description": "Comércio atacadista de chocolates, confeitos, balas, bombons e semelhantes"
+  },
+  {
+    "cnae": "4637-1/99",
+    "description": "Comércio atacadista especializado em outros produtos alimentícios Não especificados anteriormente"
+  },
+  {
+    "cnae": "4639-7/01",
+    "description": "Comércio atacadista de produtos alimentícios em geral"
+  },
+  {
+    "cnae": "4639-7/02",
+    "description": "Comércio atacadista de produtos alimentícios em geral, com atividade de fracionamento e acondicionamento associada"
+  },
+  {
+    "cnae": "4641-9/01",
+    "description": "Comércio atacadista de tecidos"
+  },
+  {
+    "cnae": "4641-9/02",
+    "description": "Comércio atacadista de artigos de cama, mesa e banho"
+  },
+  {
+    "cnae": "4641-9/03",
+    "description": "Comércio atacadista de artigos de armarinho"
+  },
+  {
+    "cnae": "4642-7/01",
+    "description": "Comércio atacadista de artigos do vestuário e acessórios, exceto profissionais e de segurança"
+  },
+  {
+    "cnae": "4642-7/02",
+    "description": "Comércio atacadista de roupas e acessórios para uso profissional e de segurança do trabalho"
+  },
+  {
+    "cnae": "4643-5/01",
+    "description": "Comércio atacadista de calçados"
+  },
+  {
+    "cnae": "4643-5/02",
+    "description": "Comércio atacadista de bolsas, malas e artigos de viagem"
+  },
+  {
+    "cnae": "4644-3/01",
+    "description": "Comércio atacadista de medicamentos e drogas de uso humano"
+  },
+  {
+    "cnae": "4644-3/02",
+    "description": "Comércio atacadista de medicamentos e drogas de uso veterinário"
+  },
+  {
+    "cnae": "4645-1/01",
+    "description": "Comércio atacadista de instrumentos e materiais para uso médico, cirúrgico, hospitalar e de laboratórios"
+  },
+  {
+    "cnae": "4645-1/02",
+    "description": "Comércio atacadista de próteses e artigos de ortopedia"
+  },
+  {
+    "cnae": "4645-1/03",
+    "description": "Comércio atacadista de produtos odontológicos"
+  },
+  {
+    "cnae": "4646-0/01",
+    "description": "Comércio atacadista de cosméticos e produtos de perfumaria"
+  },
+  {
+    "cnae": "4646-0/02",
+    "description": "Comércio atacadista de produtos de higiene pessoal"
+  },
+  {
+    "cnae": "4647-8/01",
+    "description": "Comércio atacadista de artigos de escritório e de papelaria"
+  },
+  {
+    "cnae": "4647-8/02",
+    "description": "Comércio atacadista de livros, jornais e outras publicações"
+  },
+  {
+    "cnae": "4649-4/01",
+    "description": "Comércio atacadista de equipamentos elétricos de uso pessoal e doméstico"
+  },
+  {
+    "cnae": "4649-4/02",
+    "description": "Comércio atacadista de aparelhos eletrônicos de uso pessoal e doméstico"
+  },
+  {
+    "cnae": "4649-4/03",
+    "description": "Comércio atacadista de bicicletas, triciclos e outros veículos recreativos"
+  },
+  {
+    "cnae": "4649-4/04",
+    "description": "Comércio atacadista de móveis e artigos de colchoaria"
+  },
+  {
+    "cnae": "4649-4/05",
+    "description": "Comércio atacadista de artigos de tapeçaria; persianas e cortinas"
+  },
+  {
+    "cnae": "4649-4/06",
+    "description": "Comércio atacadista de lustres, luminárias e abajures"
+  },
+  {
+    "cnae": "4649-4/07",
+    "description": "Comércio atacadista de filmes, CDs, DVDs, fitas e discos"
+  },
+  {
+    "cnae": "4649-4/08",
+    "description": "Comércio atacadista de produtos de higiene, limpeza e conservação domiciliar"
+  },
+  {
+    "cnae": "4649-4/09",
+    "description": "Comércio atacadista de produtos de higiene, limpeza e conservação domiciliar, com atividade de fracionamento e acondicionamento associada"
+  },
+  {
+    "cnae": "4649-4/10",
+    "description": "Comércio atacadista de jóias, relógios e bijuterias, inclusive pedras preciosas e semipreciosas lapidadas"
+  },
+  {
+    "cnae": "4649-4/99",
+    "description": "Comércio atacadista de outros equipamentos e artigos de uso pessoal e doméstico Não especificados anteriormente"
+  },
+  {
+    "cnae": "4651-6/01",
+    "description": "Comércio atacadista de equipamentos de informática"
+  },
+  {
+    "cnae": "4651-6/02",
+    "description": "Comércio atacadista de suprimentos para informática"
+  },
+  {
+    "cnae": "4652-4/00",
+    "description": "Comércio atacadista de componentes eletrônicos e equipamentos de telefonia e comunicação"
+  },
+  {
+    "cnae": "4661-3/00",
+    "description": "Comércio atacadista de máquinas, aparelhos e equipamentos para uso agropecuário; partes e peças"
+  },
+  {
+    "cnae": "4662-1/00",
+    "description": "Comércio atacadista de máquinas, equipamentos para terraplenagem, mineração e construção; partes e peças"
+  },
+  {
+    "cnae": "4663-0/00",
+    "description": "Comércio atacadista de máquinas e equipamentos para uso industrial; partes e peças"
+  },
+  {
+    "cnae": "4664-8/00",
+    "description": "Comércio atacadista de máquinas, aparelhos e equipamentos para uso odonto-médico-hospitalar; partes e peças"
+  },
+  {
+    "cnae": "4665-6/00",
+    "description": "Comércio atacadista de máquinas e equipamentos para uso comercial; partes e peças"
+  },
+  {
+    "cnae": "4669-9/01",
+    "description": "Comércio atacadista de bombas e compressores; partes e peças"
+  },
+  {
+    "cnae": "4669-9/99",
+    "description": "Comércio atacadista de outras máquinas e equipamentos Não especificados anteriormente; partes e peças"
+  },
+  {
+    "cnae": "4671-1/00",
+    "description": "Comércio atacadista de madeira e produtos derivados"
+  },
+  {
+    "cnae": "4672-9/00",
+    "description": "Comércio atacadista de ferragens e ferramentas"
+  },
+  {
+    "cnae": "4673-7/00",
+    "description": "Comércio atacadista de material elétrico"
+  },
+  {
+    "cnae": "4674-5/00",
+    "description": "Comércio atacadista de cimento"
+  },
+  {
+    "cnae": "4679-6/01",
+    "description": "Comércio atacadista de tintas, vernizes e Similares"
+  },
+  {
+    "cnae": "4679-6/02",
+    "description": "Comércio atacadista de mármores e granitos"
+  },
+  {
+    "cnae": "4679-6/03",
+    "description": "Comércio atacadista de vidros, espelhos e vitrais"
+  },
+  {
+    "cnae": "4679-6/04",
+    "description": "Comércio atacadista especializado de materiais de construção Não especificados anteriormente"
+  },
+  {
+    "cnae": "4679-6/99",
+    "description": "Comércio atacadista de materiais de construção em geral"
+  },
+  {
+    "cnae": "4681-8/01",
+    "description": "Comércio atacadista de álcool carburante, biodiesel, gasolina e demais derivados de petróleo, exceto lubrificantes, Não realizado por transportador retalhista (TRR)"
+  },
+  {
+    "cnae": "4681-8/02",
+    "description": "Comércio atacadista de combustíveis realizado por transportador retalhista (TRR)"
+  },
+  {
+    "cnae": "4681-8/03",
+    "description": "Comércio atacadista de combustíveis de origem vegetal, exceto álcool carburante"
+  },
+  {
+    "cnae": "4681-8/04",
+    "description": "Comércio atacadista de combustíveis de origem mineral em bruto"
+  },
+  {
+    "cnae": "4681-8/05",
+    "description": "Comércio atacadista de lubrificantes"
+  },
+  {
+    "cnae": "4682-6/00",
+    "description": "Comércio atacadista de gás liqüefeito de petróleo (GLP)"
+  },
+  {
+    "cnae": "4683-4/00",
+    "description": "Comércio atacadista de defensivos agrícolas, adubos, fertilizantes e corretivos do solo"
+  },
+  {
+    "cnae": "4684-2/01",
+    "description": "Comércio atacadista de resinas e elastômeros"
+  },
+  {
+    "cnae": "4684-2/02",
+    "description": "Comércio atacadista de solventes"
+  },
+  {
+    "cnae": "4684-2/99",
+    "description": "Comércio atacadista de outros produtos químicos e petroquímicos Não especificados anteriormente"
+  },
+  {
+    "cnae": "4685-1/00",
+    "description": "Comércio atacadista de produtos siderúrgicos e metalúrgicos, exceto para construção"
+  },
+  {
+    "cnae": "4686-9/01",
+    "description": "Comércio atacadista de papel e papelão em bruto"
+  },
+  {
+    "cnae": "4686-9/02",
+    "description": "Comércio atacadista de embalagens"
+  },
+  {
+    "cnae": "4687-7/01",
+    "description": "Comércio atacadista de resíduos de papel e papelão"
+  },
+  {
+    "cnae": "4687-7/02",
+    "description": "Comércio atacadista de resíduos e sucatas Não-metálicos, exceto de papel e papelão"
+  },
+  {
+    "cnae": "4687-7/03",
+    "description": "Comércio atacadista de resíduos e sucatas metálicos"
+  },
+  {
+    "cnae": "4689-3/01",
+    "description": "Comércio atacadista de produtos da extração mineral, exceto combustíveis"
+  },
+  {
+    "cnae": "4689-3/02",
+    "description": "Comércio atacadista de fios e fibras beneficiados"
+  },
+  {
+    "cnae": "4689-3/99",
+    "description": "Comércio atacadista especializado em outros produtos intermediários Não especificados anteriormente"
+  },
+  {
+    "cnae": "4691-5/00",
+    "description": "Comércio atacadista de mercadorias em geral, com predominância de produtos alimentícios"
+  },
+  {
+    "cnae": "4692-3/00",
+    "description": "Comércio atacadista de mercadorias em geral, com predominância de insumos agropecuários"
+  },
+  {
+    "cnae": "4693-1/00",
+    "description": "Comércio atacadista de mercadorias em geral, sem predominância de alimentos ou de insumos agropecuários"
+  },
+  {
+    "cnae": "4711-3/01",
+    "description": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - hipermercados"
+  },
+  {
+    "cnae": "4711-3/02",
+    "description": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - supermercados"
+  },
+  {
+    "cnae": "4712-1/00",
+    "description": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns"
+  },
+  {
+    "cnae": "4713-0/01",
+    "description": "Lojas de departamentos ou magazines"
+  },
+  {
+    "cnae": "4713-0/02",
+    "description": "Lojas de variedades, exceto lojas de departamentos ou magazines"
+  },
+  {
+    "cnae": "4713-0/03",
+    "description": "Lojas duty free de aeroportos internacionais"
+  },
+  {
+    "cnae": "4721-1/02",
+    "description": "Padaria e confeitaria com predominância de revenda"
+  },
+  {
+    "cnae": "4721-1/03",
+    "description": "Comércio varejista de laticínios e frios"
+  },
+  {
+    "cnae": "4721-1/04",
+    "description": "Comércio varejista de doces, balas, bombons e semelhantes"
+  },
+  {
+    "cnae": "4722-9/01",
+    "description": "Comércio varejista de carnes - açougues"
+  },
+  {
+    "cnae": "4722-9/02",
+    "description": "Peixaria"
+  },
+  {
+    "cnae": "4723-7/00",
+    "description": "Comércio varejista de bebidas"
+  },
+  {
+    "cnae": "4724-5/00",
+    "description": "Comércio varejista de hortifrutigranjeiros"
+  },
+  {
+    "cnae": "4729-6/01",
+    "description": "Tabacaria"
+  },
+  {
+    "cnae": "4729-6/02",
+    "description": "Comércio varejista de mercadorias em lojas de conveniência"
+  },
+  {
+    "cnae": "4729-6/99",
+    "description": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios Não especificados anteriormente"
+  },
+  {
+    "cnae": "4731-8/00",
+    "description": "Comércio varejista de combustíveis para veículos automotores"
+  },
+  {
+    "cnae": "4732-6/00",
+    "description": "Comércio varejista de lubrificantes"
+  },
+  {
+    "cnae": "4741-5/00",
+    "description": "Comércio varejista de tintas e materiais para pintura"
+  },
+  {
+    "cnae": "4742-3/00",
+    "description": "Comércio varejista de material elétrico"
+  },
+  {
+    "cnae": "4743-1/00",
+    "description": "Comércio varejista de vidros"
+  },
+  {
+    "cnae": "4744-0/01",
+    "description": "Comércio varejista de ferragens e ferramentas"
+  },
+  {
+    "cnae": "4744-0/02",
+    "description": "Comércio varejista de madeira e artefatos"
+  },
+  {
+    "cnae": "4744-0/03",
+    "description": "Comércio varejista de materiais hidráulicos"
+  },
+  {
+    "cnae": "4744-0/04",
+    "description": "Comércio varejista de cal, areia, pedra britada, tijolos e telhas"
+  },
+  {
+    "cnae": "4744-0/05",
+    "description": "Comércio varejista de materiais de construção Não especificados anteriormente"
+  },
+  {
+    "cnae": "4744-0/06",
+    "description": "Comércio varejista de pedras para revestimento"
+  },
+  {
+    "cnae": "4744-0/99",
+    "description": "Comércio varejista de materiais de construção em geral"
+  },
+  {
+    "cnae": "4751-2/01",
+    "description": "Comércio varejista especializado de equipamentos e suprimentos de informática"
+  },
+  {
+    "cnae": "4751-2/02",
+    "description": "Recarga de cartuchos para equipamentos de informática"
+  },
+  {
+    "cnae": "4752-1/00",
+    "description": "Comércio varejista especializado de equipamentos de telefonia e comunicação"
+  },
+  {
+    "cnae": "4753-9/00",
+    "description": "Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo"
+  },
+  {
+    "cnae": "4754-7/01",
+    "description": "Comércio varejista de móveis"
+  },
+  {
+    "cnae": "4754-7/02",
+    "description": "Comércio varejista de artigos de colchoaria"
+  },
+  {
+    "cnae": "4754-7/03",
+    "description": "Comércio varejista de artigos de iluminação"
+  },
+  {
+    "cnae": "4755-5/01",
+    "description": "Comércio varejista de tecidos"
+  },
+  {
+    "cnae": "4755-5/02",
+    "description": "Comercio varejista de artigos de armarinho"
+  },
+  {
+    "cnae": "4755-5/03",
+    "description": "Comercio varejista de artigos de cama, mesa e banho"
+  },
+  {
+    "cnae": "4756-3/00",
+    "description": "Comércio varejista especializado de instrumentos musicais e acessórios"
+  },
+  {
+    "cnae": "4757-1/00",
+    "description": "Comércio varejista especializado de peças e acessórios para aparelhos eletroeletrônicos para uso doméstico, exceto informática e comunicação"
+  },
+  {
+    "cnae": "4759-8/01",
+    "description": "Comércio varejista de artigos de tapeçaria, cortinas e persianas"
+  },
+  {
+    "cnae": "4759-8/99",
+    "description": "Comércio varejista de outros artigos de uso doméstico Não especificados anteriormente"
+  },
+  {
+    "cnae": "4761-0/01",
+    "description": "Comércio varejista de livros"
+  },
+  {
+    "cnae": "4761-0/02",
+    "description": "Comércio varejista de jornais e revistas"
+  },
+  {
+    "cnae": "4761-0/03",
+    "description": "Comércio varejista de artigos de papelaria"
+  },
+  {
+    "cnae": "4762-8/00",
+    "description": "Comércio varejista de discos, CDs, DVDs e fitas"
+  },
+  {
+    "cnae": "4763-6/01",
+    "description": "Comércio varejista de brinquedos e artigos recreativos"
+  },
+  {
+    "cnae": "4763-6/02",
+    "description": "Comércio varejista de artigos esportivos"
+  },
+  {
+    "cnae": "4763-6/03",
+    "description": "Comércio varejista de bicicletas e triciclos; peças e acessórios"
+  },
+  {
+    "cnae": "4763-6/04",
+    "description": "Comércio varejista de artigos de caça, pesca e camping"
+  },
+  {
+    "cnae": "4763-6/05",
+    "description": "Comércio varejista de embarcações e outros veículos recreativos; peças e acessórios"
+  },
+  {
+    "cnae": "4771-7/01",
+    "description": "Comércio varejista de produtos farmacêuticos, sem manipulação de fórmulas"
+  },
+  {
+    "cnae": "4771-7/02",
+    "description": "Comércio varejista de produtos farmacêuticos, com manipulação de fórmulas"
+  },
+  {
+    "cnae": "4771-7/03",
+    "description": "Comércio varejista de produtos farmacêuticos homeopáticos"
+  },
+  {
+    "cnae": "4771-7/04",
+    "description": "Comércio varejista de medicamentos veterinários"
+  },
+  {
+    "cnae": "4772-5/00",
+    "description": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal"
+  },
+  {
+    "cnae": "4773-3/00",
+    "description": "Comércio varejista de artigos médicos e ortopédicos"
+  },
+  {
+    "cnae": "4774-1/00",
+    "description": "Comércio varejista de artigos de óptica"
+  },
+  {
+    "cnae": "4781-4/00",
+    "description": "Comércio varejista de artigos do vestuário e acessórios"
+  },
+  {
+    "cnae": "4782-2/01",
+    "description": "Comércio varejista de calçados"
+  },
+  {
+    "cnae": "4782-2/02",
+    "description": "Comércio varejista de artigos de viagem"
+  },
+  {
+    "cnae": "4783-1/01",
+    "description": "Comércio varejista de artigos de joalheria"
+  },
+  {
+    "cnae": "4783-1/02",
+    "description": "Comércio varejista de artigos de relojoaria"
+  },
+  {
+    "cnae": "4784-9/00",
+    "description": "Comércio varejista de gás liqüefeito de petróleo (GLP)"
+  },
+  {
+    "cnae": "4785-7/01",
+    "description": "Comércio varejista de antigüidades"
+  },
+  {
+    "cnae": "4785-7/99",
+    "description": "Comércio varejista de outros artigos usados"
+  },
+  {
+    "cnae": "4789-0/01",
+    "description": "Comércio varejista de suvenires, bijuterias e artesanatos"
+  },
+  {
+    "cnae": "4789-0/02",
+    "description": "Comércio varejista de plantas e flores naturais"
+  },
+  {
+    "cnae": "4789-0/03",
+    "description": "Comércio varejista de objetos de arte"
+  },
+  {
+    "cnae": "4789-0/04",
+    "description": "Comércio varejista de animais vivos e de artigos e alimentos para animais de estimação"
+  },
+  {
+    "cnae": "4789-0/05",
+    "description": "Comércio varejista de produtos saneantes domissanitários"
+  },
+  {
+    "cnae": "4789-0/06",
+    "description": "Comércio varejista de fogos de artifício e artigos pirotécnicos"
+  },
+  {
+    "cnae": "4789-0/07",
+    "description": "Comércio varejista de equipamentos para escritório"
+  },
+  {
+    "cnae": "4789-0/08",
+    "description": "Comércio varejista de artigos fotográficos e para filmagem"
+  },
+  {
+    "cnae": "4789-0/09",
+    "description": "Comércio varejista de armas e munições"
+  },
+  {
+    "cnae": "4789-0/99",
+    "description": "Comércio varejista de outros produtos Não especificados anteriormente"
+  },
+  {
+    "cnae": "4911-6/00",
+    "description": "Transporte ferroviário de carga"
+  },
+  {
+    "cnae": "4912-4/01",
+    "description": "Transporte ferroviário de passageiros intermunicipal e interestadual"
+  },
+  {
+    "cnae": "4912-4/02",
+    "description": "Transporte ferroviário de passageiros municipal e em região metropolitana"
+  },
+  {
+    "cnae": "4912-4/03",
+    "description": "Transporte metroviário"
+  },
+  {
+    "cnae": "4921-3/01",
+    "description": "Transporte rodoviário coletivo de passageiros, com itinerário fixo, municipal"
+  },
+  {
+    "cnae": "4921-3/02",
+    "description": "Transporte rodoviário coletivo de passageiros, com itinerário fixo, intermunicipal em região metropolitana"
+  },
+  {
+    "cnae": "4922-1/01",
+    "description": "Transporte rodoviário coletivo de passageiros, com itinerário fixo, intermunicipal, exceto em região metropolitana"
+  },
+  {
+    "cnae": "4922-1/02",
+    "description": "Transporte rodoviário coletivo de passageiros, com itinerário fixo, interestadual"
+  },
+  {
+    "cnae": "4922-1/03",
+    "description": "Transporte rodoviário coletivo de passageiros, com itinerário fixo, internacional"
+  },
+  {
+    "cnae": "4923-0/01",
+    "description": "Serviço de táxi"
+  },
+  {
+    "cnae": "4923-0/02",
+    "description": "Serviço de transporte de passageiros - locação de automóveis com motorista"
+  },
+  {
+    "cnae": "4924-8/00",
+    "description": "Transporte escolar"
+  },
+  {
+    "cnae": "serviço de transporte intermunicipal, interestadual ou internacional?",
+    "description": ""
+  },
+  {
+    "cnae": "4929-9/01",
+    "description": "Transporte rodoviário coletivo de passageiros, sob regime de fretamento, municipal"
+  },
+  {
+    "cnae": "4929-9/02",
+    "description": "Transporte rodoviário coletivo de passageiros, sob regime de fretamento, intermunicipal, interestadual e internacional"
+  },
+  {
+    "cnae": "4929-9/03",
+    "description": "Organização de excursões em veículos rodoviários próprios, municipal"
+  },
+  {
+    "cnae": "4929-9/04",
+    "description": "Organização de excursões em veículos rodoviários próprios, intermunicipal, interestadual e internacional"
+  },
+  {
+    "cnae": "4929-9/99",
+    "description": "Outros transportes rodoviários de passageiros Não especificados anteriormente"
+  },
+  {
+    "cnae": "4930-2/01",
+    "description": "Transporte rodoviário de carga, exceto produtos perigosos e mudanças, municipal"
+  },
+  {
+    "cnae": "4930-2/02",
+    "description": "Transporte rodoviário de carga, exceto produtos perigosos e mudanças, intermunicipal, interestadual e internacional"
+  },
+  {
+    "cnae": "4930-2/03",
+    "description": "Transporte rodoviário de produtos perigosos"
+  },
+  {
+    "cnae": "4930-2/04",
+    "description": "Transporte rodoviário de mudanças"
+  },
+  {
+    "cnae": "4940-0/00",
+    "description": "Transporte dutoviário"
+  },
+  {
+    "cnae": "4950-7/00",
+    "description": "Trens turísticos, teleféricos e Similares"
+  },
+  {
+    "cnae": "5011-4/01",
+    "description": "Transporte marítimo de cabotagem - Carga"
+  },
+  {
+    "cnae": "5011-4/02",
+    "description": "Transporte marítimo de cabotagem - passageiros"
+  },
+  {
+    "cnae": "5012-2/01",
+    "description": "Transporte marítimo de longo curso - Carga"
+  },
+  {
+    "cnae": "5012-2/02",
+    "description": "Transporte marítimo de longo curso - Passageiros"
+  },
+  {
+    "cnae": "5021-1/01",
+    "description": "Transporte por navegação interior de carga, municipal, exceto travessia"
+  },
+  {
+    "cnae": "5021-1/02",
+    "description": "Transporte por navegação interior de carga, intermunicipal, interestadual e internacional, exceto travessia"
+  },
+  {
+    "cnae": "5022-0/01",
+    "description": "Transporte por navegação interior de passageiros em linhas regulares, municipal, exceto travessia"
+  },
+  {
+    "cnae": "5022-0/02",
+    "description": "Transporte por navegação interior de passageiros em linhas regulares, intermunicipal, interestadual e internacional, exceto travessia"
+  },
+  {
+    "cnae": "5030-1/01",
+    "description": "Navegação de apoio marítimo"
+  },
+  {
+    "cnae": "5030-1/02",
+    "description": "Navegação de apoio portuário"
+  },
+  {
+    "cnae": "5030-1/03",
+    "description": "Serviço de rebocadores e empurradores"
+  },
+  {
+    "cnae": "5091-2/01",
+    "description": "Transporte por navegação de travessia, municipal"
+  },
+  {
+    "cnae": "5091-2/02",
+    "description": "Transporte por navegação de travessia intermunicipal, interestadual e internacional"
+  },
+  {
+    "cnae": "5099-8/01",
+    "description": "Transporte aquaviário para passeios turísticos"
+  },
+  {
+    "cnae": "serviço de transporte intermunicipal, interestadual ou internacional?",
+    "description": ""
+  },
+  {
+    "cnae": "5099-8/99",
+    "description": "Outros transportes aquaviários Não especificados anteriormente"
+  },
+  {
+    "cnae": "serviço de transporte intermunicipal, interestadual ou internacional?",
+    "description": ""
+  },
+  {
+    "cnae": "5111-1/00",
+    "description": "Transporte aéreo de passageiros regular"
+  },
+  {
+    "cnae": "5112-9/01",
+    "description": "Serviço de táxi aéreo e locação de aeronaves com tripulação"
+  },
+  {
+    "cnae": "5112-9/99",
+    "description": "Outros serviços de transporte aéreo de passageiros Não-regular"
+  },
+  {
+    "cnae": "5120-0/00",
+    "description": "Transporte aéreo de carga"
+  },
+  {
+    "cnae": "5130-7/00",
+    "description": "Transporte espacial"
+  },
+  {
+    "cnae": "5211-7/01",
+    "description": "Armazéns gerais - emissão de warrant"
+  },
+  {
+    "cnae": "5211-7/02",
+    "description": "Guarda-móveis"
+  },
+  {
+    "cnae": "5211-7/99",
+    "description": "Depósitos de mercadorias para terceiros, exceto armazéns gerais e guarda-móveis"
+  },
+  {
+    "cnae": "5212-5/00",
+    "description": "Carga e descarga"
+  },
+  {
+    "cnae": "5221-4/00",
+    "description": "Concessionárias de rodovias, pontes, túneis e serviços relacionados"
+  },
+  {
+    "cnae": "5222-2/00",
+    "description": "Terminais rodoviários e ferroviários"
+  },
+  {
+    "cnae": "5223-1/00",
+    "description": "Estacionamento de veículos"
+  },
+  {
+    "cnae": "5229-0/01",
+    "description": "Serviços de apoio ao transporte por táxi, inclusive centrais de chamada"
+  },
+  {
+    "cnae": "5229-0/02",
+    "description": "Serviços de reboque de veículos"
+  },
+  {
+    "cnae": "5229-0/99",
+    "description": "Outras atividades auxiliares dos transportes terrestres Não especificadas anteriormente"
+  },
+  {
+    "cnae": "5231-1/01",
+    "description": "Administração da infra-estrutura portuária"
+  },
+  {
+    "cnae": "5231-1/02",
+    "description": "Atividades do Operador Portuário"
+  },
+  {
+    "cnae": "5231-1/03",
+    "description": "Gestão de terminais aquaviários"
+  },
+  {
+    "cnae": "5232-0/00",
+    "description": "Atividades de agenciamento marítimo"
+  },
+  {
+    "cnae": "5239-7/01",
+    "description": "Serviços de praticagem"
+  },
+  {
+    "cnae": "5239-7/99",
+    "description": "Atividades auxiliares dos transportes aquaviários Não especificadas anteriormente"
+  },
+  {
+    "cnae": "5240-1/01",
+    "description": "Operação dos aeroportos e campos de aterrissagem"
+  },
+  {
+    "cnae": "5240-1/99",
+    "description": "Atividades auxiliares dos transportes aéreos, exceto operação dos aeroportos e campos de aterrissagem"
+  },
+  {
+    "cnae": "5250-8/01",
+    "description": "Comissaria de despachos"
+  },
+  {
+    "cnae": "5250-8/02",
+    "description": "Atividades de despachantes aduaneiros"
+  },
+  {
+    "cnae": "5250-8/03",
+    "description": "Agenciamento de cargas, exceto para o transporte marítimo"
+  },
+  {
+    "cnae": "5250-8/04",
+    "description": "Organização logística do transporte de carga"
+  },
+  {
+    "cnae": "5250-8/05",
+    "description": "Operador de transporte multimodal - OTM"
+  },
+  {
+    "cnae": "5310-5/01",
+    "description": "Atividades do Correio Nacional"
+  },
+  {
+    "cnae": "5310-5/02",
+    "description": "Atividades de franqueadas e permissionárias do Correio Nacional"
+  },
+  {
+    "cnae": "5320-2/01",
+    "description": "Serviços de malote Não realizados pelo Correio Nacional"
+  },
+  {
+    "cnae": "5320-2/02",
+    "description": "Serviços de entrega rápida"
+  },
+  {
+    "cnae": "5510-8/01",
+    "description": "Hotéis"
+  },
+  {
+    "cnae": "5510-8/02",
+    "description": "Apart-hotéis"
+  },
+  {
+    "cnae": "5510-8/03",
+    "description": "Motéis"
+  },
+  {
+    "cnae": "5590-6/01",
+    "description": "Albergues, exceto assistenciais"
+  },
+  {
+    "cnae": "5590-6/02",
+    "description": "Campings"
+  },
+  {
+    "cnae": "5590-6/03",
+    "description": "Pensões (alojamento)"
+  },
+  {
+    "cnae": "5590-6/99",
+    "description": "Outros alojamentos Não especificados anteriormente"
+  },
+  {
+    "cnae": "5611-2/01",
+    "description": "Restaurantes e Similares"
+  },
+  {
+    "cnae": "5611-2/02",
+    "description": "Bares e outros estabelecimentos especializados em servir bebidas"
+  },
+  {
+    "cnae": "5611-2/03",
+    "description": "Lanchonetes, casas de chá, de sucos e Similares"
+  },
+  {
+    "cnae": "5612-1/00",
+    "description": "Serviços ambulantes de alimentação"
+  },
+  {
+    "cnae": "5620-1/01",
+    "description": "Fornecimento de alimentos preparados preponderantemente para empresas"
+  },
+  {
+    "cnae": "5620-1/02",
+    "description": "Serviços de alimentação para eventos e recepções - bufê"
+  },
+  {
+    "cnae": "5620-1/03",
+    "description": "Cantinas - serviços de alimentação privativos"
+  },
+  {
+    "cnae": "5620-1/04",
+    "description": "Fornecimento de alimentos preparados preponderantemente para consumo domiciliar"
+  },
+  {
+    "cnae": "5811-5/00",
+    "description": "Edição de livros"
+  },
+  {
+    "cnae": "5812-3/01",
+    "description": "Edição de jornais diários"
+  },
+  {
+    "cnae": "5812-3/02",
+    "description": "Edição de jornais Não diários"
+  },
+  {
+    "cnae": "5813-1/00",
+    "description": "Edição de revistas"
+  },
+  {
+    "cnae": "5819-1/00",
+    "description": "Edição de cadastros, listas e outros produtos gráficos"
+  },
+  {
+    "cnae": "5821-2/00",
+    "description": "Edição integrada à impressão de livros"
+  },
+  {
+    "cnae": "5822-1/01",
+    "description": "Edição integrada à impressão de jornais diários"
+  },
+  {
+    "cnae": "5822-1/02",
+    "description": "Edição integrada à impressão de jornais Não diários"
+  },
+  {
+    "cnae": "5823-9/00",
+    "description": "Edição integrada à impressão de revistas"
+  },
+  {
+    "cnae": "5829-8/00",
+    "description": "Edição integrada à impressão de cadastros, listas e outros produtos gráficos"
+  },
+  {
+    "cnae": "5911-1/01",
+    "description": "Estúdios cinematográficos"
+  },
+  {
+    "cnae": "5911-1/02",
+    "description": "Produção de filmes para publicidade"
+  },
+  {
+    "cnae": "5911-1/99",
+    "description": "Atividades de produção cinematográfica, de vídeos e de programas de televisão Não especificadas anteriormente"
+  },
+  {
+    "cnae": "5912-0/01",
+    "description": "Serviços de dublagem"
+  },
+  {
+    "cnae": "5912-0/02",
+    "description": "Serviços de mixagem sonora em produção audiovisual"
+  },
+  {
+    "cnae": "5912-0/99",
+    "description": "Atividades de pós-produção cinematográfica, de vídeos e de programas de televisão Não especificadas anteriormente"
+  },
+  {
+    "cnae": "5913-8/00",
+    "description": "Distribuição cinematográfica, de vídeo e de programas de televisão"
+  },
+  {
+    "cnae": "5914-6/00",
+    "description": "Atividades de exibição cinematográfica"
+  },
+  {
+    "cnae": "5920-1/00",
+    "description": "Atividades de gravação de som e de edição de música"
+  },
+  {
+    "cnae": "6010-1/00",
+    "description": "Atividades de rádio"
+  },
+  {
+    "cnae": "6021-7/00",
+    "description": "Atividades de televisão aberta"
+  },
+  {
+    "cnae": "6022-5/01",
+    "description": "Programadoras"
+  },
+  {
+    "cnae": "6022-5/02",
+    "description": "Atividades relacionadas à televisão por assinatura, exceto programadoras"
+  },
+  {
+    "cnae": "6110-8/01",
+    "description": "Serviços de telefonia fixa comutada - STFC"
+  },
+  {
+    "cnae": "6110-8/02",
+    "description": "Serviços de redes de transporte de telecomunicações - SRTT"
+  },
+  {
+    "cnae": "6110-8/03",
+    "description": "Serviços de comunicação multimídia - SCM"
+  },
+  {
+    "cnae": "6110-8/99",
+    "description": "Serviços de telecomunicações por fio Não especificados anteriormente"
+  },
+  {
+    "cnae": "6120-5/01",
+    "description": "Telefonia móvel celular"
+  },
+  {
+    "cnae": "6120-5/02",
+    "description": "Serviço móvel especializado - SME"
+  },
+  {
+    "cnae": "6120-5/99",
+    "description": "Serviços de telecomunicações sem fio Não especificados anteriormente"
+  },
+  {
+    "cnae": "6130-2/00",
+    "description": "Telecomunicações por satélite"
+  },
+  {
+    "cnae": "6141-8/00",
+    "description": "Operadoras de televisão por assinatura por cabo"
+  },
+  {
+    "cnae": "6142-6/00",
+    "description": "Operadoras de televisão por assinatura por microondas"
+  },
+  {
+    "cnae": "6143-4/00",
+    "description": "Operadoras de televisão por assinatura por satélite"
+  },
+  {
+    "cnae": "6190-6/01",
+    "description": "Provedores de acesso às redes de comunicações"
+  },
+  {
+    "cnae": "6190-6/02",
+    "description": "Provedores de voz sobre protocolo internet - VOIP"
+  },
+  {
+    "cnae": "6190-6/99",
+    "description": "Outras atividades de telecomunicações Não especificadas anteriormente"
+  },
+  {
+    "cnae": "6201-5/01",
+    "description": "Desenvolvimento de programas de computador sob encomenda"
+  },
+  {
+    "cnae": "6201-5/02",
+    "description": "Web design"
+  },
+  {
+    "cnae": "6202-3/00",
+    "description": "Desenvolvimento e licenciamento de programas de computador customizáveis"
+  },
+  {
+    "cnae": "6203-1/00",
+    "description": "Desenvolvimento e licenciamento de programas de computador Não-customizáveis"
+  },
+  {
+    "cnae": "6204-0/00",
+    "description": "Consultoria em tecnologia da informação"
+  },
+  {
+    "cnae": "6209-1/00",
+    "description": "Suporte técnico, manutenção e outros serviços em tecnologia da informação"
+  },
+  {
+    "cnae": "6311-9/00",
+    "description": "Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na internet"
+  },
+  {
+    "cnae": "6319-4/00",
+    "description": "Portais, provedores de conteúdo e outros serviços de informação na internet"
+  },
+  {
+    "cnae": "6391-7/00",
+    "description": "Agências de notícias"
+  },
+  {
+    "cnae": "6399-2/00",
+    "description": "Outras atividades de prestação de serviços de informação Não especificadas anteriormente"
+  },
+  {
+    "cnae": "6410-7/00",
+    "description": "Banco Central"
+  },
+  {
+    "cnae": "6421-2/00",
+    "description": "Bancos comerciais"
+  },
+  {
+    "cnae": "6422-1/00",
+    "description": "Bancos múltiplos, com carteira comercial"
+  },
+  {
+    "cnae": "6423-9/00",
+    "description": "Caixas econômicas"
+  },
+  {
+    "cnae": "6424-7/01",
+    "description": "Bancos cooperativos"
+  },
+  {
+    "cnae": "6424-7/02",
+    "description": "Cooperativas centrais de crédito"
+  },
+  {
+    "cnae": "6424-7/03",
+    "description": "Cooperativas de crédito mútuo"
+  },
+  {
+    "cnae": "6424-7/04",
+    "description": "Cooperativas de crédito rural"
+  },
+  {
+    "cnae": "6431-0/00",
+    "description": "Bancos múltiplos, sem carteira comercial"
+  },
+  {
+    "cnae": "6432-8/00",
+    "description": "Bancos de investimento"
+  },
+  {
+    "cnae": "6433-6/00",
+    "description": "Bancos de desenvolvimento"
+  },
+  {
+    "cnae": "6434-4/00",
+    "description": "Agências de fomento"
+  },
+  {
+    "cnae": "6435-2/01",
+    "description": "Sociedades de crédito imobiliário"
+  },
+  {
+    "cnae": "6435-2/02",
+    "description": "Associações de poupança e empréstimo"
+  },
+  {
+    "cnae": "6435-2/03",
+    "description": "Companhias hipotecárias"
+  },
+  {
+    "cnae": "6436-1/00",
+    "description": "Sociedades de crédito, financiamento e investimento - financeiras"
+  },
+  {
+    "cnae": "6437-9/00",
+    "description": "Sociedades de crédito ao microempreendedor"
+  },
+  {
+    "cnae": "6438-7/01",
+    "description": "Bancos de câmbio"
+  },
+  {
+    "cnae": "6438-7/99",
+    "description": "Outras instituições de intermediação Não-monetária Não especificadas anteriormente"
+  },
+  {
+    "cnae": "6440-9/00",
+    "description": "Arrendamento mercantil"
+  },
+  {
+    "cnae": "6450-6/00",
+    "description": "Sociedades de capitalização"
+  },
+  {
+    "cnae": "6461-1/00",
+    "description": "Holdingsde instituições financeiras"
+  },
+  {
+    "cnae": "6462-0/00",
+    "description": "Holdingsde instituições Não-financeiras"
+  },
+  {
+    "cnae": "6463-8/00",
+    "description": "Outras sociedades de participação, exceto holdings"
+  },
+  {
+    "cnae": "6470-1/01",
+    "description": "Fundos de investimento, exceto previdenciários e imobiliários"
+  },
+  {
+    "cnae": "6470-1/02",
+    "description": "Fundos de investimento previdenciários"
+  },
+  {
+    "cnae": "6470-1/03",
+    "description": "Fundos de investimento imobiliários"
+  },
+  {
+    "cnae": "6491-3/00",
+    "description": "Sociedades de fomento mercantil - factoring"
+  },
+  {
+    "cnae": "6492-1/00",
+    "description": "Securitização de créditos"
+  },
+  {
+    "cnae": "6493-0/00",
+    "description": "Administração de consórcios para aquisição de bens e direitos"
+  },
+  {
+    "cnae": "6499-9/01",
+    "description": "Clubes de investimento"
+  },
+  {
+    "cnae": "6499-9/02",
+    "description": "Sociedades de investimento"
+  },
+  {
+    "cnae": "6499-9/03",
+    "description": "Fundo garantidor de crédito"
+  },
+  {
+    "cnae": "6499-9/04",
+    "description": "Caixas de financiamento de corporações"
+  },
+  {
+    "cnae": "6499-9/05",
+    "description": "Concessão de crédito pelas OSCIP"
+  },
+  {
+    "cnae": "6499-9/99",
+    "description": "Outras atividades de serviços financeiros Não especificadas anteriormente"
+  },
+  {
+    "cnae": "6511-1/01",
+    "description": "Sociedade seguradora de seguros vida"
+  },
+  {
+    "cnae": "6511-1/02",
+    "description": "Planos de auxílio-funeral"
+  },
+  {
+    "cnae": "6512-0/00",
+    "description": "Sociedade seguradora de seguros Não vida"
+  },
+  {
+    "cnae": "6520-1/00",
+    "description": "Sociedade seguradora de seguros saúde"
+  },
+  {
+    "cnae": "6530-8/00",
+    "description": "Resseguros"
+  },
+  {
+    "cnae": "6541-3/00",
+    "description": "Previdência complementar fechada"
+  },
+  {
+    "cnae": "6542-1/00",
+    "description": "Previdência complementar aberta"
+  },
+  {
+    "cnae": "6550-2/00",
+    "description": "Planos de saúde"
+  },
+  {
+    "cnae": "6611-8/01",
+    "description": "Bolsa de valores"
+  },
+  {
+    "cnae": "6611-8/02",
+    "description": "Bolsa de mercadorias"
+  },
+  {
+    "cnae": "6611-8/03",
+    "description": "Bolsa de mercadorias e futuros"
+  },
+  {
+    "cnae": "6611-8/04",
+    "description": "Administração de mercados de balcão organizados"
+  },
+  {
+    "cnae": "6612-6/01",
+    "description": "Corretoras de títulos e valores mobiliários"
+  },
+  {
+    "cnae": "6612-6/02",
+    "description": "Distribuidoras de títulos e valores mobiliários"
+  },
+  {
+    "cnae": "6612-6/03",
+    "description": "Corretoras de câmbio"
+  },
+  {
+    "cnae": "6612-6/04",
+    "description": "Corretoras de contratos de mercadorias"
+  },
+  {
+    "cnae": "6612-6/05",
+    "description": "Agentes de investimentos em aplicações financeiras"
+  },
+  {
+    "cnae": "6613-4/00",
+    "description": "Administração de cartões de crédito"
+  },
+  {
+    "cnae": "6619-3/01",
+    "description": "Serviços de liquidação e custódia"
+  },
+  {
+    "cnae": "6619-3/02",
+    "description": "Correspondentes de instituições financeiras"
+  },
+  {
+    "cnae": "6619-3/03",
+    "description": "Representações de bancos estrangeiros"
+  },
+  {
+    "cnae": "6619-3/04",
+    "description": "Caixas eletrônicos"
+  },
+  {
+    "cnae": "6619-3/05",
+    "description": "Operadoras de cartões de débito"
+  },
+  {
+    "cnae": "6619-3/99",
+    "description": "Outras atividades auxiliares dos serviços financeiros Não especificadas anteriormente"
+  },
+  {
+    "cnae": "6621-5/01",
+    "description": "Peritos e avaliadores de seguros"
+  },
+  {
+    "cnae": "6621-5/02",
+    "description": "Auditoria e consultoria atuarial"
+  },
+  {
+    "cnae": "6622-3/00",
+    "description": "Corretores e agentes de seguros, de planos de previdência complementar e de saúde"
+  },
+  {
+    "cnae": "6629-1/00",
+    "description": "Atividades auxiliares dos seguros, da previdência complementar e dos planos de saúde Não especificadas anteriormente"
+  },
+  {
+    "cnae": "6630-4/00",
+    "description": "Atividades de administração de fundos por contrato ou comissão"
+  },
+  {
+    "cnae": "6810-2/01",
+    "description": "Compra e venda de imóveis próprios"
+  },
+  {
+    "cnae": "6810-2/02",
+    "description": "Aluguel de imóveis próprios"
+  },
+  {
+    "cnae": "6810-2/03",
+    "description": "Loteamento de imóveis próprios"
+  },
+  {
+    "cnae": "6821-8/01",
+    "description": "Corretagem na compra e venda e avaliação de imóveis"
+  },
+  {
+    "cnae": "6821-8/02",
+    "description": "Corretagem no aluguel de imóveis"
+  },
+  {
+    "cnae": "6822-6/00",
+    "description": "Gestão e administração da propriedade imobiliária"
+  },
+  {
+    "cnae": "6911-7/01",
+    "description": "Serviços advocatícios"
+  },
+  {
+    "cnae": "6911-7/02",
+    "description": "Atividades auxiliares da justiça"
+  },
+  {
+    "cnae": "6911-7/03",
+    "description": "Agente de propriedade industrial"
+  },
+  {
+    "cnae": "6912-5/00",
+    "description": "Cartórios"
+  },
+  {
+    "cnae": "6920-6/01",
+    "description": "Atividades de contabilidade"
+  },
+  {
+    "cnae": "6920-6/02",
+    "description": "Atividades de consultoria e auditoria contábil e tributária"
+  },
+  {
+    "cnae": "7020-4/00",
+    "description": "Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica"
+  },
+  {
+    "cnae": "7111-1/00",
+    "description": "Serviços de arquitetura"
+  },
+  {
+    "cnae": "7112-0/00",
+    "description": "Serviços de engenharia"
+  },
+  {
+    "cnae": "7119-7/01",
+    "description": "Serviços de cartografia, topografia e geodésia"
+  },
+  {
+    "cnae": "7119-7/02",
+    "description": "Atividades de estudos geológicos"
+  },
+  {
+    "cnae": "7119-7/03",
+    "description": "Serviços de desenho técnico relacionados à arquitetura e engenharia"
+  },
+  {
+    "cnae": "7119-7/04",
+    "description": "Serviços de perícia técnica relacionados à segurança do trabalho"
+  },
+  {
+    "cnae": "7119-7/99",
+    "description": "Atividades técnicas relacionadas à engenharia e arquitetura Não especificadas anteriormente"
+  },
+  {
+    "cnae": "7120-1/00",
+    "description": "Testes e análises técnicas"
+  },
+  {
+    "cnae": "7210-0/00",
+    "description": "Pesquisa e desenvolvimento experimental em ciências físicas e naturais"
+  },
+  {
+    "cnae": "7220-7/00",
+    "description": "Pesquisa e desenvolvimento experimental em ciências sociais e humanas"
+  },
+  {
+    "cnae": "7311-4/00",
+    "description": "Agências de publicidade"
+  },
+  {
+    "cnae": "7312-2/00",
+    "description": "Agenciamento de espaços para publicidade, exceto em veículos de comunicação"
+  },
+  {
+    "cnae": "7319-0/01",
+    "description": "Criação de estandes para feiras e exposições"
+  },
+  {
+    "cnae": "7319-0/02",
+    "description": "Promoção de vendas"
+  },
+  {
+    "cnae": "7319-0/03",
+    "description": "Marketing direto"
+  },
+  {
+    "cnae": "7319-0/04",
+    "description": "Consultoria em publicidade"
+  },
+  {
+    "cnae": "7319-0/99",
+    "description": "Outras atividades de publicidade Não especificadas anteriormente"
+  },
+  {
+    "cnae": "7320-3/00",
+    "description": "Pesquisas de mercado e de opinião pública"
+  },
+  {
+    "cnae": "7410-2/02",
+    "description": "Design de interiores"
+  },
+  {
+    "cnae": "7410-2/03",
+    "description": "Design de produto"
+  },
+  {
+    "cnae": "7410-2/99",
+    "description": "Atividades de design Não especificadas anteriormente"
+  },
+  {
+    "cnae": "7420-0/01",
+    "description": "Atividades de produção de fotografias, exceto aérea e submarina"
+  },
+  {
+    "cnae": "7420-0/02",
+    "description": "Atividades de produção de fotografias aéreas e submarinas"
+  },
+  {
+    "cnae": "7420-0/03",
+    "description": "Laboratórios fotográficos"
+  },
+  {
+    "cnae": "7420-0/04",
+    "description": "Filmagem de festas e eventos"
+  },
+  {
+    "cnae": "7420-0/05",
+    "description": "Serviços de microfilmagem"
+  },
+  {
+    "cnae": "7490-1/01",
+    "description": "Serviços de tradução, interpretação e Similares"
+  },
+  {
+    "cnae": "7490-1/02",
+    "description": "Escafandria e mergulho"
+  },
+  {
+    "cnae": "7490-1/03",
+    "description": "Serviços de agronomia e de consultoria às atividades agrícolas e pecuárias"
+  },
+  {
+    "cnae": "7490-1/04",
+    "description": "Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários"
+  },
+  {
+    "cnae": "7490-1/05",
+    "description": "Agenciamento de profissionais para atividades esportivas, culturais e artísticas"
+  },
+  {
+    "cnae": "7490-1/99",
+    "description": "Outras atividades profissionais, científicas e técnicas Não especificadas anteriormente"
+  },
+  {
+    "cnae": "7500-1/00",
+    "description": "Atividades veterinárias"
+  },
+  {
+    "cnae": "7711-0/00",
+    "description": "Locação de automóveis sem condutor"
+  },
+  {
+    "cnae": "7719-5/01",
+    "description": "Locação de embarcações sem tripulação, exceto para fins recreativos"
+  },
+  {
+    "cnae": "7719-5/02",
+    "description": "Locação de aeronaves sem tripulação"
+  },
+  {
+    "cnae": "7719-5/99",
+    "description": "Locação de outros meios de transporte Não especificados anteriormente, sem condutor"
+  },
+  {
+    "cnae": "7721-7/00",
+    "description": "Aluguel de equipamentos recreativos e esportivos"
+  },
+  {
+    "cnae": "7722-5/00",
+    "description": "Aluguel de fitas de vídeo, DVDs e Similares"
+  },
+  {
+    "cnae": "7723-3/00",
+    "description": "Aluguel de objetos do vestuário, jóias e acessórios"
+  },
+  {
+    "cnae": "7729-2/01",
+    "description": "Aluguel de aparelhos de jogos eletrônicos"
+  },
+  {
+    "cnae": "7729-2/02",
+    "description": "Aluguel de móveis, utensílios e aparelhos de uso doméstico e pessoal; instrumentos musicais"
+  },
+  {
+    "cnae": "7729-2/03",
+    "description": "Aluguel de material médico"
+  },
+  {
+    "cnae": "7729-2/99",
+    "description": "Aluguel de outros objetos pessoais e domésticos Não especificados anteriormente"
+  },
+  {
+    "cnae": "7731-4/00",
+    "description": "Aluguel de máquinas e equipamentos agrícolas sem operador"
+  },
+  {
+    "cnae": "7732-2/01",
+    "description": "Aluguel de máquinas e equipamentos para construção sem operador, exceto andaimes"
+  },
+  {
+    "cnae": "7732-2/02",
+    "description": "Aluguel de andaimes"
+  },
+  {
+    "cnae": "7733-1/00",
+    "description": "Aluguel de máquinas e equipamentos para escritório"
+  },
+  {
+    "cnae": "7739-0/01",
+    "description": "Aluguel de máquinas e equipamentos para extração de minérios e petróleo, sem operador"
+  },
+  {
+    "cnae": "7739-0/02",
+    "description": "Aluguel de equipamentos científicos, médicos e hospitalares, sem operador"
+  },
+  {
+    "cnae": "7739-0/03",
+    "description": "Aluguel de palcos, coberturas e outras estruturas de uso temporário, exceto andaimes"
+  },
+  {
+    "cnae": "7739-0/99",
+    "description": "Aluguel de outras máquinas e equipamentos comerciais e industriais Não especificados anteriormente, sem operador"
+  },
+  {
+    "cnae": "7740-3/00",
+    "description": "Gestão de ativos intangíveis Não-financeiros"
+  },
+  {
+    "cnae": "7810-8/00",
+    "description": "Seleção e agenciamento de mão-de-obra"
+  },
+  {
+    "cnae": "7820-5/00",
+    "description": "Locação de mão-de-obra temporária"
+  },
+  {
+    "cnae": "7830-2/00",
+    "description": "Fornecimento e gestão de recursos humanos para terceiros"
+  },
+  {
+    "cnae": "7911-2/00",
+    "description": "Agências de viagens"
+  },
+  {
+    "cnae": "7912-1/00",
+    "description": "Operadores turísticos"
+  },
+  {
+    "cnae": "7990-2/00",
+    "description": "Serviços de reservas e outros serviços de turismo Não especificados anteriormente"
+  },
+  {
+    "cnae": "8011-1/01",
+    "description": "Atividades de vigilância e segurança privada"
+  },
+  {
+    "cnae": "8011-1/02",
+    "description": "Serviços de adestramento de cães de guarda"
+  },
+  {
+    "cnae": "8012-9/00",
+    "description": "Atividades de transporte de valores"
+  },
+  {
+    "cnae": "8020-0/01",
+    "description": "Atividades de monitoramento de sistemas de segurança eletrônico"
+  },
+  {
+    "cnae": "8020-0/02",
+    "description": "Outras atividades de serviços de segurança"
+  },
+  {
+    "cnae": "8030-7/00",
+    "description": "Atividades de investigação particular"
+  },
+  {
+    "cnae": "8111-7/00",
+    "description": "Serviços combinados para apoio a edifícios, exceto condomínios prediais"
+  },
+  {
+    "cnae": "8112-5/00",
+    "description": "Condomínios prediais"
+  },
+  {
+    "cnae": "8121-4/00",
+    "description": "Limpeza em prédios e em domicílios"
+  },
+  {
+    "cnae": "8122-2/00",
+    "description": "Imunização e controle de pragas urbanas"
+  },
+  {
+    "cnae": "8129-0/00",
+    "description": "Atividades de limpeza Não especificadas anteriormente"
+  },
+  {
+    "cnae": "8130-3/00",
+    "description": "Atividades paisagísticas"
+  },
+  {
+    "cnae": "8211-3/00",
+    "description": "Serviços combinados de escritório e apoio administrativo"
+  },
+  {
+    "cnae": "8219-9/01",
+    "description": "Fotocópias"
+  },
+  {
+    "cnae": "8219-9/99",
+    "description": "Preparação de documentos e serviços especializados de apoio administrativo Não especificados anteriormente"
+  },
+  {
+    "cnae": "8220-2/00",
+    "description": "Atividades de teleatendimento"
+  },
+  {
+    "cnae": "8230-0/01",
+    "description": "Serviços de organização de feiras, congressos, exposições e festas"
+  },
+  {
+    "cnae": "8230-0/02",
+    "description": "Casas de festas e eventos"
+  },
+  {
+    "cnae": "8291-1/00",
+    "description": "Atividades de cobrança e informações cadastrais"
+  },
+  {
+    "cnae": "8292-0/00",
+    "description": "Envasamento e empacotamento sob contrato"
+  },
+  {
+    "cnae": "8299-7/01",
+    "description": "Medição de consumo de energia elétrica, gás e água"
+  },
+  {
+    "cnae": "8299-7/02",
+    "description": "Emissão de vales-alimentação, vales-transporte e Similares"
+  },
+  {
+    "cnae": "8299-7/03",
+    "description": "Serviços de gravação de carimbos, exceto confecção"
+  },
+  {
+    "cnae": "8299-7/04",
+    "description": "Leiloeiros independentes"
+  },
+  {
+    "cnae": "8299-7/05",
+    "description": "Serviços de levantamento de fundos sob contrato"
+  },
+  {
+    "cnae": "8299-7/06",
+    "description": "Casas lotéricas"
+  },
+  {
+    "cnae": "8299-7/07",
+    "description": "Salas de acesso à internet"
+  },
+  {
+    "cnae": "8299-7/99",
+    "description": "Outras atividades de serviços prestados principalmente às empresas Não especificadas anteriormente"
+  },
+  {
+    "cnae": "8411-6/00",
+    "description": "Administração pública em geral"
+  },
+  {
+    "cnae": "8412-4/00",
+    "description": "Regulação das atividades de saúde, educação, serviços culturais e outros serviços sociais"
+  },
+  {
+    "cnae": "8413-2/00",
+    "description": "Regulação das atividades econômicas"
+  },
+  {
+    "cnae": "8421-3/00",
+    "description": "Relações exteriores"
+  },
+  {
+    "cnae": "8422-1/00",
+    "description": "Defesa"
+  },
+  {
+    "cnae": "8423-0/00",
+    "description": "Justiça"
+  },
+  {
+    "cnae": "8424-8/00",
+    "description": "Segurança e ordem pública"
+  },
+  {
+    "cnae": "8425-6/00",
+    "description": "Defesa Civil"
+  },
+  {
+    "cnae": "8430-2/00",
+    "description": "Seguridade social obrigatória"
+  },
+  {
+    "cnae": "8511-2/00",
+    "description": "Educação infantil - creche"
+  },
+  {
+    "cnae": "8512-1/00",
+    "description": "Educação infantil - pré-escola"
+  },
+  {
+    "cnae": "8513-9/00",
+    "description": "Ensino fundamental"
+  },
+  {
+    "cnae": "8520-1/00",
+    "description": "Ensino médio"
+  },
+  {
+    "cnae": "8531-7/00",
+    "description": "Educação superior - graduação"
+  },
+  {
+    "cnae": "8532-5/00",
+    "description": "Educação superior - graduação e pós-graduação"
+  },
+  {
+    "cnae": "8533-3/00",
+    "description": "Educação superior - pós-graduação e extensão"
+  },
+  {
+    "cnae": "8541-4/00",
+    "description": "Educação profissional de nível técnico"
+  },
+  {
+    "cnae": "8542-2/00",
+    "description": "Educação profissional de nível tecnológico"
+  },
+  {
+    "cnae": "8550-3/01",
+    "description": "Administração de caixas escolares"
+  },
+  {
+    "cnae": "8550-3/02",
+    "description": "Atividades de apoio à educação, exceto caixas escolares"
+  },
+  {
+    "cnae": "8591-1/00",
+    "description": "Ensino de esportes"
+  },
+  {
+    "cnae": "8592-9/01",
+    "description": "Ensino de dança"
+  },
+  {
+    "cnae": "8592-9/02",
+    "description": "Ensino de artes cênicas, exceto dança"
+  },
+  {
+    "cnae": "8592-9/03",
+    "description": "Ensino de música"
+  },
+  {
+    "cnae": "8592-9/99",
+    "description": "Ensino de arte e cultura Não especificado anteriormente"
+  },
+  {
+    "cnae": "8593-7/00",
+    "description": "Ensino de idiomas"
+  },
+  {
+    "cnae": "8599-6/01",
+    "description": "Formação de condutores"
+  },
+  {
+    "cnae": "8599-6/02",
+    "description": "Cursos de pilotagem"
+  },
+  {
+    "cnae": "8599-6/03",
+    "description": "Treinamento em informática"
+  },
+  {
+    "cnae": "8599-6/04",
+    "description": "Treinamento em desenvolvimento profissional e gerencial"
+  },
+  {
+    "cnae": "8599-6/05",
+    "description": "Cursos preparatórios para concursos"
+  },
+  {
+    "cnae": "8599-6/99",
+    "description": "Outras atividades de ensino Não especificadas anteriormente"
+  },
+  {
+    "cnae": "8610-1/01",
+    "description": "Atividades de atendimento hospitalar, exceto pronto-socorro e unidades para atendimento a urgências"
+  },
+  {
+    "cnae": "8610-1/02",
+    "description": "Atividades de atendimento em pronto-socorro e unidades hospitalares para atendimento a urgências"
+  },
+  {
+    "cnae": "8621-6/01",
+    "description": "UTI móvel"
+  },
+  {
+    "cnae": "8621-6/02",
+    "description": "Serviços móveis de atendimento a urgências, exceto por UTI móvel"
+  },
+  {
+    "cnae": "8622-4/00",
+    "description": "Serviços de remoção de pacientes, exceto os serviços móveis de atendimento a urgências"
+  },
+  {
+    "cnae": "8630-5/01",
+    "description": "Atividade médica ambulatorial com recursos para realização de procedimentos cirúrgicos"
+  },
+  {
+    "cnae": "8630-5/02",
+    "description": "Atividade médica ambulatorial com recursos para realização de exames complementares"
+  },
+  {
+    "cnae": "8630-5/03",
+    "description": "Atividade médica ambulatorial restrita a consultas"
+  },
+  {
+    "cnae": "8630-5/04",
+    "description": "Atividade odontológica"
+  },
+  {
+    "cnae": "8630-5/06",
+    "description": "Serviços de vacinação e imunização humana"
+  },
+  {
+    "cnae": "8630-5/07",
+    "description": "Atividades de reprodução humana assistida"
+  },
+  {
+    "cnae": "8630-5/99",
+    "description": "Atividades de atenção ambulatorial Não especificadas anteriormente"
+  },
+  {
+    "cnae": "8640-2/01",
+    "description": "Laboratórios de anatomia patológica e citológica"
+  },
+  {
+    "cnae": "8640-2/02",
+    "description": "Laboratórios clínicos"
+  },
+  {
+    "cnae": "8640-2/03",
+    "description": "Serviços de diálise e nefrologia"
+  },
+  {
+    "cnae": "8640-2/04",
+    "description": "Serviços de tomografia"
+  },
+  {
+    "cnae": "8640-2/05",
+    "description": "Serviços de diagnóstico por imagem com uso de radiação ionizante, exceto tomografia"
+  },
+  {
+    "cnae": "8640-2/06",
+    "description": "Serviços de ressonância magnética"
+  },
+  {
+    "cnae": "8640-2/07",
+    "description": "Serviços de diagnóstico por imagem sem uso de radiação ionizante, exceto ressonância magnética"
+  },
+  {
+    "cnae": "8640-2/08",
+    "description": "Serviços de diagnóstico por registro gráfico - ECG, EEG e outros exames análogos"
+  },
+  {
+    "cnae": "8640-2/09",
+    "description": "Serviços de diagnóstico por métodos ópticos - endoscopia e outros exames análogos"
+  },
+  {
+    "cnae": "8640-2/10",
+    "description": "Serviços de quimioterapia"
+  },
+  {
+    "cnae": "8640-2/11",
+    "description": "Serviços de radioterapia"
+  },
+  {
+    "cnae": "8640-2/12",
+    "description": "Serviços de hemoterapia"
+  },
+  {
+    "cnae": "8640-2/13",
+    "description": "Serviços de litotripsia"
+  },
+  {
+    "cnae": "8640-2/14",
+    "description": "Serviços de bancos de células e tecidos humanos"
+  },
+  {
+    "cnae": "8640-2/99",
+    "description": "Atividades de serviços de complementação diagnóstica e terapêutica Não especificadas anteriormente"
+  },
+  {
+    "cnae": "8650-0/01",
+    "description": "Atividades de enfermagem"
+  },
+  {
+    "cnae": "8650-0/02",
+    "description": "Atividades de profissionais da nutrição"
+  },
+  {
+    "cnae": "8650-0/03",
+    "description": "Atividades de psicologia e psicanálise"
+  },
+  {
+    "cnae": "8650-0/04",
+    "description": "Atividades de fisioterapia"
+  },
+  {
+    "cnae": "8650-0/05",
+    "description": "Atividades de terapia ocupacional"
+  },
+  {
+    "cnae": "8650-0/06",
+    "description": "Atividades de fonoaudiologia"
+  },
+  {
+    "cnae": "8650-0/07",
+    "description": "Atividades de terapia de nutrição enteral e parenteral"
+  },
+  {
+    "cnae": "8650-0/99",
+    "description": "Atividades de profissionais da área de saúde Não especificadas anteriormente"
+  },
+  {
+    "cnae": "8660-7/00",
+    "description": "Atividades de apoio à gestão de saúde"
+  },
+  {
+    "cnae": "8690-9/01",
+    "description": "Atividades de práticas integrativas e complementares em saúde humana"
+  },
+  {
+    "cnae": "8690-9/02",
+    "description": "Atividades de bancos de leite humano"
+  },
+  {
+    "cnae": "8690-9/03",
+    "description": "Atividades de acupuntura"
+  },
+  {
+    "cnae": "8690-9/04",
+    "description": "Atividades de podologia"
+  },
+  {
+    "cnae": "8690-9/99",
+    "description": "Outras atividades de atenção à saúde humana Não especificadas anteriormente"
+  },
+  {
+    "cnae": "8711-5/01",
+    "description": "Clínicas e residências geriátricas"
+  },
+  {
+    "cnae": "8711-5/02",
+    "description": "Instituições de longa permanência para idosos"
+  },
+  {
+    "cnae": "8711-5/03",
+    "description": "Atividades de assistência a deficientes físicos, imunodeprimidos e convalescentes"
+  },
+  {
+    "cnae": "8711-5/04",
+    "description": "Centros de apoio a pacientes com câncer e com AIDS"
+  },
+  {
+    "cnae": "8711-5/05",
+    "description": "Condomínios residenciais para idosos"
+  },
+  {
+    "cnae": "8712-3/00",
+    "description": "Atividades de fornecimento de infra-estrutura de apoio e assistência a paciente no domicílio"
+  },
+  {
+    "cnae": "8720-4/01",
+    "description": "Atividades de centros de assistência psicossocial"
+  },
+  {
+    "cnae": "8720-4/99",
+    "description": "Atividades de assistência psicossocial e à saúde a portadores de distúrbios psíquicos, deficiência mental e dependência química Não especificadas anteriormente"
+  },
+  {
+    "cnae": "8730-1/01",
+    "description": "Orfanatos"
+  },
+  {
+    "cnae": "8730-1/02",
+    "description": "Albergues assistenciais"
+  },
+  {
+    "cnae": "8730-1/99",
+    "description": "Atividades de assistência social prestadas em residências coletivas e particulares Não especificadas anteriormente"
+  },
+  {
+    "cnae": "8800-6/00",
+    "description": "Serviços de assistência social sem alojamento"
+  },
+  {
+    "cnae": "9001-9/01",
+    "description": "Produção teatral"
+  },
+  {
+    "cnae": "9001-9/02",
+    "description": "Produção musical"
+  },
+  {
+    "cnae": "9001-9/03",
+    "description": "Produção de espetáculos de dança"
+  },
+  {
+    "cnae": "9001-9/04",
+    "description": "Produção de espetáculos circenses, de marionetes e Similares"
+  },
+  {
+    "cnae": "9001-9/05",
+    "description": "Produção de espetáculos de rodeios, vaquejadas e Similares"
+  },
+  {
+    "cnae": "9001-9/06",
+    "description": "Atividades de sonorização e de iluminação"
+  },
+  {
+    "cnae": "9001-9/99",
+    "description": "Artes cênicas, espetáculos e atividades complementares Não especificados anteriormente"
+  },
+  {
+    "cnae": "9002-7/01",
+    "description": "Atividades de artistas plásticos, jornalistas independentes e escritores"
+  },
+  {
+    "cnae": "9002-7/02",
+    "description": "Restauração de obras de arte"
+  },
+  {
+    "cnae": "9003-5/00",
+    "description": "Gestão de espaços para artes cênicas, espetáculos e outras atividades artísticas"
+  },
+  {
+    "cnae": "9101-5/00",
+    "description": "Atividades de bibliotecas e arquivos"
+  },
+  {
+    "cnae": "9102-3/01",
+    "description": "Atividades de museus e de exploração de lugares e prédios históricos e atrações Similares"
+  },
+  {
+    "cnae": "9102-3/02",
+    "description": "Restauração e conservação de lugares e prédios históricos"
+  },
+  {
+    "cnae": "9103-1/00",
+    "description": "Atividades de jardins botânicos, zoológicos, parques nacionais, reservas ecológicas e áreas de proteção ambiental"
+  },
+  {
+    "cnae": "9200-3/01",
+    "description": "Casas de bingo"
+  },
+  {
+    "cnae": "9200-3/02",
+    "description": "Exploração de apostas em corridas de cavalos"
+  },
+  {
+    "cnae": "9200-3/99",
+    "description": "Exploração de jogos de azar e apostas Não especificados anteriormente"
+  },
+  {
+    "cnae": "9311-5/00",
+    "description": "Gestão de instalações de esportes"
+  },
+  {
+    "cnae": "9312-3/00",
+    "description": "Clubes sociais, esportivos e Similares"
+  },
+  {
+    "cnae": "9313-1/00",
+    "description": "Atividades de condicionamento físico"
+  },
+  {
+    "cnae": "9319-1/01",
+    "description": "Produção e promoção de eventos esportivos"
+  },
+  {
+    "cnae": "9319-1/99",
+    "description": "Outras atividades esportivas Não especificadas anteriormente"
+  },
+  {
+    "cnae": "9321-2/00",
+    "description": "Parques de diversão e parques temáticos"
+  },
+  {
+    "cnae": "9329-8/01",
+    "description": "Discotecas, danceterias, salões de dança e Similares"
+  },
+  {
+    "cnae": "9329-8/02",
+    "description": "Exploração de boliches"
+  },
+  {
+    "cnae": "9329-8/03",
+    "description": "Exploração de jogos de sinuca, bilhar e Similares"
+  },
+  {
+    "cnae": "9329-8/04",
+    "description": "Exploração de jogos eletrônicos recreativos"
+  },
+  {
+    "cnae": "9329-8/99",
+    "description": "Outras atividades de recreação e lazer Não especificadas anteriormente"
+  },
+  {
+    "cnae": "9411-1/00",
+    "description": "Atividades de organizações associativas patronais e empresariais"
+  },
+  {
+    "cnae": "9412-0/01",
+    "description": "Atividades de fiscalização profissional"
+  },
+  {
+    "cnae": "9412-0/99",
+    "description": "Outras atividades associativas profissionais"
+  },
+  {
+    "cnae": "9420-1/00",
+    "description": "Atividades de organizações sindicais"
+  },
+  {
+    "cnae": "9430-8/00",
+    "description": "Atividades de associações de defesa de direitos sociais"
+  },
+  {
+    "cnae": "9491-0/00",
+    "description": "Atividades de organizações religiosas ou filosóficas"
+  },
+  {
+    "cnae": "9492-8/00",
+    "description": "Atividades de organizações políticas"
+  },
+  {
+    "cnae": "9493-6/00",
+    "description": "Atividades de organizações associativas ligadas à cultura e à arte"
+  },
+  {
+    "cnae": "9499-5/00",
+    "description": "Atividades associativas Não especificadas anteriormente"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "9511-8/00",
+    "description": "Reparação e manutenção de computadores e de equipamentos periféricos"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "9512-6/00",
+    "description": "Reparação e manutenção de equipamentos de comunicação"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "9521-5/00",
+    "description": "Reparação e manutenção de equipamentos eletroeletrônicos de uso pessoal e doméstico"
+  },
+  {
+    "cnae": "9529-1/01",
+    "description": "Reparação de calçados, bolsas e artigos de viagem"
+  },
+  {
+    "cnae": "9529-1/02",
+    "description": "Chaveiros"
+  },
+  {
+    "cnae": "9529-1/03",
+    "description": "Reparação de relógios"
+  },
+  {
+    "cnae": "",
+    "description": ""
+  },
+  {
+    "cnae": "9529-1/04",
+    "description": "Reparação de bicicletas, triciclos e outros veículos Não-motorizados"
+  },
+  {
+    "cnae": "9529-1/05",
+    "description": "Reparação de artigos do mobiliário"
+  },
+  {
+    "cnae": "9529-1/06",
+    "description": "Reparação de jóias"
+  },
+  {
+    "cnae": "9529-1/99",
+    "description": "Reparação e manutenção de outros objetos e equipamentos pessoais e domésticos Não especificados anteriormente"
+  },
+  {
+    "cnae": "9601-7/01",
+    "description": "Lavanderias"
+  },
+  {
+    "cnae": "9601-7/02",
+    "description": "Tinturarias"
+  },
+  {
+    "cnae": "9601-7/03",
+    "description": "Toalheiros"
+  },
+  {
+    "cnae": "9602-5/01",
+    "description": "Cabeleireiros, manicure e pedicure"
+  },
+  {
+    "cnae": "9602-5/02",
+    "description": "Atividades de Estética e outros serviços de cuidados com a beleza"
+  },
+  {
+    "cnae": "9603-3/01",
+    "description": "Gestão e manutenção de cemitérios"
+  },
+  {
+    "cnae": "9603-3/02",
+    "description": "Serviços de cremação"
+  },
+  {
+    "cnae": "9603-3/03",
+    "description": "Serviços de sepultamento"
+  },
+  {
+    "cnae": "9603-3/04",
+    "description": "Serviços de funerárias"
+  },
+  {
+    "cnae": "9603-3/05",
+    "description": "Serviços de somatoconservação"
+  },
+  {
+    "cnae": "9603-3/99",
+    "description": "Atividades funerárias e serviços relacionados Não especificados anteriormente"
+  },
+  {
+    "cnae": "9609-2/02",
+    "description": "Agências matrimoniais"
+  },
+  {
+    "cnae": "9609-2/04",
+    "description": "Exploração de máquinas de serviços pessoais acionadas por moeda"
+  },
+  {
+    "cnae": "9609-2/05",
+    "description": "Atividades de sauna e banhos"
+  },
+  {
+    "cnae": "9609-2/06",
+    "description": "Serviços de tatuagem e colocação de piercing"
+  },
+  {
+    "cnae": "9609-2/07",
+    "description": "Alojamento de animais domésticos"
+  },
+  {
+    "cnae": "9609-2/08",
+    "description": "Higiene e embelezamento de animais domésticos"
+  },
+  {
+    "cnae": "9609-2/99",
+    "description": "Outras atividades de serviços pessoais Não especificadas anteriormente"
+  },
+  {
+    "cnae": "9700-5/00",
+    "description": "Serviços domésticos"
+  },
+  {
+    "cnae": "9900-8/00",
+    "description": "Organismos internacionais e outras instituições extraterritoriais"
+  }
+]
